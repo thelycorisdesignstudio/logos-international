@@ -1,0 +1,68 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer base {
+  :root {
+    /* IBM Exact Colors */
+    --ibm-blue: #0f62fe;
+    --ibm-blue-dark: #0043ce;
+    --ibm-blue-darker: #003399;
+    --ibm-blue-light: #d0e2ff;
+    --ibm-blue-lightest: #f4f4ff;
+    --ibm-gray-01: #ffffff;
+    --ibm-gray-02: #f4f4f4;
+    --ibm-gray-03: #e8e8e8;
+    --ibm-gray-04: #dcdcdc;
+    --ibm-gray-05: #d0d0d0;
+    --ibm-gray-10: #a8a8a8;
+    --ibm-gray-20: #8d8d8d;
+    --ibm-gray-30: #525252;
+    --ibm-gray-40: #3f3f3f;
+    --ibm-gray-50: #262626;
+    --ibm-gray-60: #1a1a1a;
+    --ibm-gray-70: #161616;
+    --ibm-gray-80: #0f0f0f;
+    --ibm-gray-90: #050505;
+    --ibm-gray-100: #000000;
+    
+    /* Semantic */
+    --text-primary: #0f172a;
+    --text-secondary: #475569;
+    --text-tertiary: #94a3b8;
+    --text-light: #ffffff;
+    --bg-primary: #ffffff;
+    --bg-secondary: #f8fafc;
+    --bg-tertiary: #f1f5f9;
+    --border-subtle: #e2e8f0;
+    --border-medium: #cbd5e1;
+    --accent: #f97316;
+    --accent-dark: #ea580c;
+  }
+
+  body {
+    @apply font-sans text-[var(--text-primary)] bg-[var(--bg-primary)] antialiased;
+    line-height: 1.6;
+    letter-spacing: -0.3px;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-[var(--accent-dark)] text-white px-8 py-3.5 text-sm font-semibold cursor-pointer transition-all duration-200 hover:bg-[var(--accent)];
+    letter-spacing: 0px;
+  }
+
+  .btn-secondary {
+    @apply bg-transparent text-[var(--accent-dark)] px-8 py-3.5 border-2 border-[var(--accent-dark)] text-sm font-semibold cursor-pointer transition-all duration-200 hover:bg-[var(--accent-dark)] hover:text-white;
+    letter-spacing: 0px;
+  }
+
+  .card {
+    @apply bg-[var(--bg-primary)] border border-[var(--border-subtle)] p-10 transition-all duration-200 hover:border-[var(--border-medium)] hover:shadow-lg;
+  }
+}
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600;700&display=swap');
