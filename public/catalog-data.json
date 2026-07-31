@@ -1,0 +1,695 @@
+{
+  "name": "Logos International Catalog Data",
+  "canonicalUrl": "https://logosae.com/catalog",
+  "generatedDate": "2026-07-31",
+  "company": {
+    "name": "Logos International",
+    "businessType": "Multi-category sourcing and supply company",
+    "location": "Sharjah, United Arab Emirates",
+    "email": "info@logos.ae",
+    "serviceArea": [
+      "Sharjah",
+      "Dubai",
+      "Abu Dhabi",
+      "Ajman",
+      "Ras Al Khaimah",
+      "Fujairah",
+      "United Arab Emirates",
+      "Saudi Arabia",
+      "Qatar",
+      "Oman",
+      "Bahrain",
+      "Kuwait",
+      "GCC countries"
+    ],
+    "summary": "Commercial supplier supporting customers across PPE, safety, medical consumables, hardware, uniforms, printing services and custom-order categories."
+  },
+  "totalProducts": 79,
+  "categories": [
+    {
+      "name": "Bird & Cat Food",
+      "slug": "bird-and-cat-food",
+      "canonicalUrl": "https://logosae.com/catalog/bird-and-cat-food",
+      "summary": "Bird and cat food plus related accessories.",
+      "productCount": 2,
+      "products": [
+        {
+          "id": 45,
+          "name": "Dry Cat Food",
+          "description": "Dry food for cats and kittens.",
+          "image": "https://logosae.com/catalog-images/45-dry-cat-food.jpg"
+        },
+        {
+          "id": 46,
+          "name": "Bird Feed & Accessories",
+          "description": "Variety of bird seeds and cage accessories.",
+          "image": "https://logosae.com/catalog-images/46-bird-feed-and-accessories.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Building Materials & Hardware",
+      "slug": "building-materials-and-hardware",
+      "canonicalUrl": "https://logosae.com/catalog/building-materials-and-hardware",
+      "summary": "Building materials and hardware products supplied for commercial procurement requirements.",
+      "productCount": 3,
+      "products": [
+        {
+          "id": 37,
+          "name": "Industrial Pipe Fittings",
+          "description": "Range of fittings and plumbing materials.",
+          "image": "https://logosae.com/catalog-images/37-industrial-pipe-fittings.jpg"
+        },
+        {
+          "id": 77,
+          "name": "Building Materials",
+          "description": "General building materials supplied for commercial and industrial requirements.",
+          "image": "https://logosae.com/catalog-images/77-building-materials.jpg"
+        },
+        {
+          "id": 78,
+          "name": "Hardware Supplies",
+          "description": "Hardware products sourced for maintenance, site, and facility supply needs.",
+          "image": "https://logosae.com/catalog-images/78-hardware-supplies.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Clothing",
+      "slug": "clothing",
+      "canonicalUrl": "https://logosae.com/catalog/clothing",
+      "summary": "T-shirts, cargo pants, cotton coveralls, twill cotton uniforms, polycotton uniforms, high visibility reflective vests, disposable coveralls, fire retardant coveralls and lab coats.",
+      "productCount": 8,
+      "products": [
+        {
+          "id": 1,
+          "name": "Custom T-Shirt",
+          "description": "Ready made and customized t-shirts for corporate and industrial use.",
+          "image": "https://logosae.com/catalog-images/01-custom-t-shirt.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Industrial Cargo Pants",
+          "description": "Durable cargo pants for workforce uniforms.",
+          "image": "https://logosae.com/catalog-images/02-industrial-cargo-pants.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Cotton Coverall",
+          "description": "100% Cotton industrial coverall for standard protection.",
+          "image": "https://logosae.com/catalog-images/03-cotton-coverall.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Twill Cotton 2pc Uniform",
+          "description": "Shirt and pants set made from high-quality twill cotton.",
+          "image": "https://logosae.com/catalog-images/04-twill-cotton-2pc-uniform.jpg"
+        },
+        {
+          "id": 5,
+          "name": "High Visibility Reflective Vest",
+          "description": "Standard safety vests with high intensity reflective strips.",
+          "image": "https://logosae.com/catalog-images/05-high-visibility-reflective-vest.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Disposable Coverall",
+          "description": "Lightweight breathable disposable coveralls.",
+          "image": "https://logosae.com/catalog-images/06-disposable-coverall.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Fire Retardant Coverall",
+          "description": "Certified FR coveralls for hazardous environments.",
+          "image": "https://logosae.com/catalog-images/07-fire-retardant-coverall.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Lab Coat",
+          "description": "Professional lab coats for medical and laboratory staff.",
+          "image": "https://logosae.com/catalog-images/08-lab-coat.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Eye & Ear Protection",
+      "slug": "eye-and-ear-protection",
+      "canonicalUrl": "https://logosae.com/catalog/eye-and-ear-protection",
+      "summary": "Face shields, safety goggles, safety spectacles, ear muffs and ear plugs.",
+      "productCount": 5,
+      "products": [
+        {
+          "id": 25,
+          "name": "Face Shield",
+          "description": "Full-face splash and impact protection.",
+          "image": "https://logosae.com/catalog-images/25-face-shield.jpg"
+        },
+        {
+          "id": 26,
+          "name": "Safety Goggles",
+          "description": "Sealed goggles for chemical and dust protection.",
+          "image": "https://logosae.com/catalog-images/26-safety-goggles.jpg"
+        },
+        {
+          "id": 27,
+          "name": "Safety Spectacles",
+          "description": "Clear and tinted safety glasses.",
+          "image": "https://logosae.com/catalog-images/27-safety-spectacles.jpg"
+        },
+        {
+          "id": 28,
+          "name": "Ear Muff",
+          "description": "High-attenuation ear muffs for loud environments.",
+          "image": "https://logosae.com/catalog-images/28-ear-muff.jpg"
+        },
+        {
+          "id": 29,
+          "name": "Ear Plug",
+          "description": "Soft foam disposable ear plugs.",
+          "image": "https://logosae.com/catalog-images/29-ear-plug.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Fall Protection",
+      "slug": "fall-protection",
+      "canonicalUrl": "https://logosae.com/catalog/fall-protection",
+      "summary": "Full body harnesses, lanyards, retractable fall arresters and cargo lashing belts.",
+      "productCount": 4,
+      "products": [
+        {
+          "id": 33,
+          "name": "Full Body Harness",
+          "description": "Ergonomic harness for high-altitude work.",
+          "image": "https://logosae.com/catalog-images/33-full-body-harness.jpg"
+        },
+        {
+          "id": 34,
+          "name": "Lanyard",
+          "description": "Shock-absorbing lanyards for fall arrest.",
+          "image": "https://logosae.com/catalog-images/34-lanyard.jpg"
+        },
+        {
+          "id": 35,
+          "name": "Retractable Fall Arrester",
+          "description": "Automatic self-retracting lifeline.",
+          "image": "https://logosae.com/catalog-images/35-retractable-fall-arrester.jpg"
+        },
+        {
+          "id": 36,
+          "name": "Cargo Lashing Belt",
+          "description": "Heavy-duty ratchet straps for cargo security.",
+          "image": "https://logosae.com/catalog-images/36-cargo-lashing-belt.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Hand Protection",
+      "slug": "hand-protection",
+      "canonicalUrl": "https://logosae.com/catalog/hand-protection",
+      "summary": "Dotted gloves, nitrile gloves, chemical resistant gloves, vinyl gloves, latex gloves, leather gloves and welding gloves.",
+      "productCount": 7,
+      "products": [
+        {
+          "id": 14,
+          "name": "Dotted Gloves",
+          "description": "Grip-enhanced cotton gloves for general handling.",
+          "image": "https://logosae.com/catalog-images/14-dotted-gloves.jpg"
+        },
+        {
+          "id": 15,
+          "name": "Nitrile Gloves",
+          "description": "Heavy-duty nitrile assessment and industrial gloves.",
+          "image": "https://logosae.com/catalog-images/15-nitrile-gloves.jpg"
+        },
+        {
+          "id": 16,
+          "name": "Chemical Resistant Gloves",
+          "description": "Latex or PVC gloves for safe chemical handling.",
+          "image": "https://logosae.com/catalog-images/16-chemical-resistant-gloves.jpg"
+        },
+        {
+          "id": 17,
+          "name": "Vinyl Gloves",
+          "description": "Disposable vinyl gloves for hygiene, medical, and light-duty handling.",
+          "image": "https://logosae.com/catalog-images/17-vinyl-gloves.jpg"
+        },
+        {
+          "id": 18,
+          "name": "Latex Gloves",
+          "description": "Flexible latex gloves for medical, cleaning, and general protection use.",
+          "image": "https://logosae.com/catalog-images/18-latex-gloves.jpg"
+        },
+        {
+          "id": 19,
+          "name": "Leather Gloves",
+          "description": "Durable leather gloves for handling, rigging, and workshop environments.",
+          "image": "https://logosae.com/catalog-images/19-leather-gloves.jpg"
+        },
+        {
+          "id": 20,
+          "name": "Welding Gloves",
+          "description": "Heat-resistant welding gloves for fabrication and maintenance work.",
+          "image": "https://logosae.com/catalog-images/20-welding-gloves.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Head Protection",
+      "slug": "head-protection",
+      "canonicalUrl": "https://logosae.com/catalog/head-protection",
+      "summary": "Metal helmets, fiber helmets and helmets with ratchet and chin strap.",
+      "productCount": 3,
+      "products": [
+        {
+          "id": 30,
+          "name": "Metal Helmet",
+          "description": "Metal safety helmets for industrial work.",
+          "image": "https://logosae.com/catalog-images/30-metal-helmet.jpg"
+        },
+        {
+          "id": 31,
+          "name": "Fiber Helmet",
+          "description": "Lightweight fiber-reinforced hard hats.",
+          "image": "https://logosae.com/catalog-images/31-fiber-helmet.jpg"
+        },
+        {
+          "id": 32,
+          "name": "Helmet with Ratchet & Chin Strap",
+          "description": "Adjustable safety helmet with secure chin strap.",
+          "image": "https://logosae.com/catalog-images/32-helmet-with-ratchet-and-chin-strap.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Marine Paints",
+      "slug": "marine-paints",
+      "canonicalUrl": "https://logosae.com/catalog/marine-paints",
+      "summary": "Marine paints for commercial and industrial supply requirements.",
+      "productCount": 1,
+      "products": [
+        {
+          "id": 48,
+          "name": "Marine Anti-Fouling Paint",
+          "description": "Anti-fouling paint for marine hull protection.",
+          "image": "https://logosae.com/catalog-images/48-marine-anti-fouling-paint.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Medical Consumables",
+      "slug": "medical-consumables",
+      "canonicalUrl": "https://logosae.com/catalog/medical-consumables",
+      "summary": "Medical consumables for hygiene, workplace and facility requirements.",
+      "productCount": 1,
+      "products": [
+        {
+          "id": 76,
+          "name": "Medical Consumables",
+          "description": "General medical consumables supplied on request for hygiene, workplace, and facility needs.",
+          "image": "https://logosae.com/catalog-images/76-medical-consumables.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Miscellaneous Products",
+      "slug": "miscellaneous-products",
+      "canonicalUrl": "https://logosae.com/catalog/miscellaneous-products",
+      "summary": "Oil spill kits, traffic cones, warning tapes, barriers, flash lights, PVC buckets, plastic drums, PVC aprons, garbage bags, bio-degradable bags, trolley bags, tool boxes, ladders, water coolers, first aid boxes, shoe covers, hairnets, fire resistant cabinets, nylon ropes, food grade silicones, cleaning accessories, hygiene products, stretch films, blower fans with ducts, winter jackets and ANZA refills or handles.",
+      "productCount": 25,
+      "products": [
+        {
+          "id": 51,
+          "name": "Oil Spill Kit",
+          "description": "Complete chemical and oil spill response kit.",
+          "image": "https://logosae.com/catalog-images/51-oil-spill-kit.jpg"
+        },
+        {
+          "id": 52,
+          "name": "Industrial Traffic Cone",
+          "description": "High-visibility reflective road cones.",
+          "image": "https://logosae.com/catalog-images/52-industrial-traffic-cone.jpg"
+        },
+        {
+          "id": 53,
+          "name": "Warning Tape",
+          "description": "Barrier tape for marking hazardous areas.",
+          "image": "https://logosae.com/catalog-images/53-warning-tape.jpg"
+        },
+        {
+          "id": 54,
+          "name": "Safety Barrier",
+          "description": "Expandable and fixed safety barriers.",
+          "image": "https://logosae.com/catalog-images/54-safety-barrier.jpg"
+        },
+        {
+          "id": 55,
+          "name": "High-Power Flashlight",
+          "description": "Rechargeable industrial-grade torches.",
+          "image": "https://logosae.com/catalog-images/55-high-power-flashlight.jpg"
+        },
+        {
+          "id": 56,
+          "name": "PVC Bucket / Plastic Drum",
+          "description": "Durable storage and material handling buckets.",
+          "image": "https://logosae.com/catalog-images/56-pvc-bucket-plastic-drum.jpg"
+        },
+        {
+          "id": 57,
+          "name": "PVC Apron",
+          "description": "Chemical resistant work apron.",
+          "image": "https://logosae.com/catalog-images/57-pvc-apron.jpg"
+        },
+        {
+          "id": 79,
+          "name": "Garbage Bags",
+          "description": "Garbage bags supplied for facility, hygiene, and commercial waste requirements.",
+          "image": "https://logosae.com/catalog-images/79-garbage-bags.jpg"
+        },
+        {
+          "id": 58,
+          "name": "Bio-degradable Garbage Bags",
+          "description": "Environmentally friendly waste management bags.",
+          "image": "https://logosae.com/catalog-images/58-bio-degradable-garbage-bags.jpg"
+        },
+        {
+          "id": 59,
+          "name": "Trolley Bag",
+          "description": "Heavy-duty bags for tools and equipment.",
+          "image": "https://logosae.com/catalog-images/59-trolley-bag.png"
+        },
+        {
+          "id": 60,
+          "name": "Industrial Tool Box",
+          "description": "Secure storage for professional tools.",
+          "image": "https://logosae.com/catalog-images/60-industrial-tool-box.jpg"
+        },
+        {
+          "id": 61,
+          "name": "Aluminum Ladder",
+          "description": "Multi-step foldable aluminum ladders.",
+          "image": "https://logosae.com/catalog-images/61-aluminum-ladder.jpg"
+        },
+        {
+          "id": 62,
+          "name": "Insulated Water Cooler",
+          "description": "Insulated cooler for job-site hydration and cold storage.",
+          "image": "https://logosae.com/catalog-images/62-insulated-water-cooler.jpg"
+        },
+        {
+          "id": 63,
+          "name": "First Aid Box",
+          "description": "HSE compliant medical first aid kits.",
+          "image": "https://logosae.com/catalog-images/63-first-aid-box.jpg"
+        },
+        {
+          "id": 64,
+          "name": "Disposable Shoe Covers",
+          "description": "Box of 100 anti-slip shoe covers.",
+          "image": "https://logosae.com/catalog-images/64-disposable-shoe-covers.jpg"
+        },
+        {
+          "id": 65,
+          "name": "Hairnet Bulk Pack",
+          "description": "Disposable hairnets for food and medical use.",
+          "image": "https://logosae.com/catalog-images/65-hairnet-bulk-pack.jpg"
+        },
+        {
+          "id": 66,
+          "name": "Fire Resistant Cabinet",
+          "description": "Safety cabinets for hazardous material storage.",
+          "image": "https://logosae.com/catalog-images/66-fire-resistant-cabinet.jpg"
+        },
+        {
+          "id": 67,
+          "name": "Nylon Rope",
+          "description": "High-strength nylon ropes for rigging.",
+          "image": "https://logosae.com/catalog-images/67-nylon-rope.jpg"
+        },
+        {
+          "id": 68,
+          "name": "Food Grade Silicone",
+          "description": "Safe sealants for food processing environments.",
+          "image": "https://logosae.com/catalog-images/68-food-grade-silicone.jpg"
+        },
+        {
+          "id": 69,
+          "name": "Cleaning Accessories",
+          "description": "Industrial janitorial supplies and tools.",
+          "image": "https://logosae.com/catalog-images/69-cleaning-accessories.jpg"
+        },
+        {
+          "id": 70,
+          "name": "Hygiene Products",
+          "description": "Sanitizers, soaps, and hygiene essentials.",
+          "image": "https://logosae.com/catalog-images/70-hygiene-products.jpg"
+        },
+        {
+          "id": 71,
+          "name": "Industrial Stretch Film",
+          "description": "Durable pallet wrapping film.",
+          "image": "https://logosae.com/catalog-images/71-industrial-stretch-film.jpg"
+        },
+        {
+          "id": 72,
+          "name": "Blower Fan with Duct",
+          "description": "Portable ventilation fans for confined spaces.",
+          "image": "https://logosae.com/catalog-images/72-blower-fan-with-duct.jpg"
+        },
+        {
+          "id": 73,
+          "name": "Winter Jacket",
+          "description": "Insulated jackets for cold environment work.",
+          "image": "https://logosae.com/catalog-images/73-winter-jacket.jpg"
+        },
+        {
+          "id": 74,
+          "name": "ANZA Refills & Handles",
+          "description": "Professional painting tool refills and handles.",
+          "image": "https://logosae.com/catalog-images/74-anza-refills-and-handles.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Order Suppliers",
+      "slug": "order-suppliers",
+      "canonicalUrl": "https://logosae.com/catalog/order-suppliers",
+      "summary": "Custom order sourcing for products not listed in the main catalog.",
+      "productCount": 1,
+      "products": [
+        {
+          "id": 47,
+          "name": "Custom Order Sourcing",
+          "description": "Product sourcing for items not listed in the main catalog.",
+          "image": "https://logosae.com/catalog-images/47-custom-order-sourcing.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Printing Services",
+      "slug": "printing-services",
+      "canonicalUrl": "https://logosae.com/catalog/printing-services",
+      "summary": "DTF, embroidery, sublimation, screen printing, offset printing, signages, shields and trophies.",
+      "productCount": 5,
+      "products": [
+        {
+          "id": 38,
+          "name": "DTF Printing",
+          "description": "Direct-to-film high resolution printing.",
+          "image": "https://logosae.com/catalog-images/38-dtf-printing.jpg"
+        },
+        {
+          "id": 39,
+          "name": "Embroidery Service",
+          "description": "Professional machine embroidery for logos.",
+          "image": "https://logosae.com/catalog-images/39-embroidery-service.jpg"
+        },
+        {
+          "id": 40,
+          "name": "Sublimation Printing",
+          "description": "All-over print sublimation services.",
+          "image": "https://logosae.com/catalog-images/40-sublimation-printing.jpg"
+        },
+        {
+          "id": 41,
+          "name": "Screen Printing",
+          "description": "Bulk screen printing for uniforms.",
+          "image": "https://logosae.com/catalog-images/41-screen-printing.jpg"
+        },
+        {
+          "id": 42,
+          "name": "Offset Printing",
+          "description": "High-volume paper and stationery printing.",
+          "image": "https://logosae.com/catalog-images/42-offset-printing.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Respiratory Protection",
+      "slug": "respiratory-protection",
+      "canonicalUrl": "https://logosae.com/catalog/respiratory-protection",
+      "summary": "Surgical masks, N95 masks, full face masks, half face masks and respiratory masks.",
+      "productCount": 5,
+      "products": [
+        {
+          "id": 21,
+          "name": "Surgical Masks",
+          "description": "Disposable surgical masks for workplace, hygiene, and medical consumable supply.",
+          "image": "https://logosae.com/catalog-images/21-surgical-masks.jpg"
+        },
+        {
+          "id": 22,
+          "name": "N95 Mask",
+          "description": "High-filtration particulate respirator masks.",
+          "image": "https://logosae.com/catalog-images/22-n95-mask.jpg"
+        },
+        {
+          "id": 23,
+          "name": "Full Face Mask",
+          "description": "Complete respiratory protection with full vision.",
+          "image": "https://logosae.com/catalog-images/23-full-face-mask.jpg"
+        },
+        {
+          "id": 24,
+          "name": "Half Face Mask",
+          "description": "Twin filter half-face respirator.",
+          "image": "https://logosae.com/catalog-images/24-half-face-mask.jpg"
+        },
+        {
+          "id": 75,
+          "name": "Respiratory Mask",
+          "description": "General respiratory masks for dust, particles, and workplace protection.",
+          "image": "https://logosae.com/catalog-images/75-respiratory-mask.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Safety Footwear",
+      "slug": "safety-footwear",
+      "canonicalUrl": "https://logosae.com/catalog/safety-footwear",
+      "summary": "Non-metal safety shoes, metal safety shoes, welder boots, gumboots and executive safety shoes.",
+      "productCount": 5,
+      "products": [
+        {
+          "id": 9,
+          "name": "Non-Metal Safety Shoes",
+          "description": "Lightweight safety shoes with composite protection. 100% Metal-free construction.",
+          "image": "https://logosae.com/catalog-images/09-non-metal-safety-shoes.jpg"
+        },
+        {
+          "id": 10,
+          "name": "Metal Safety Shoes",
+          "description": "Traditional steel-toe safety footwear for heavy construction.",
+          "image": "https://logosae.com/catalog-images/10-metal-safety-shoes.jpg"
+        },
+        {
+          "id": 11,
+          "name": "Welder Boot",
+          "description": "High-heat resistant boots with quick-release velcro for welding.",
+          "image": "https://logosae.com/catalog-images/11-welder-boot.jpg"
+        },
+        {
+          "id": 12,
+          "name": "Gumboot",
+          "description": "Waterproof PVC boots with safety toe.",
+          "image": "https://logosae.com/catalog-images/12-gumboot.jpg"
+        },
+        {
+          "id": 13,
+          "name": "Executive Safety Shoes",
+          "description": "Formal safety shoes for site-to-office use.",
+          "image": "https://logosae.com/catalog-images/13-executive-safety-shoes.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Shields and Trophies",
+      "slug": "shields-and-trophies",
+      "canonicalUrl": "https://logosae.com/catalog/shields-and-trophies",
+      "summary": "Custom shields, trophies and recognition awards.",
+      "productCount": 1,
+      "products": [
+        {
+          "id": 43,
+          "name": "Custom Shield & Trophy",
+          "description": "Recognition awards and corporate trophies.",
+          "image": "https://logosae.com/catalog-images/43-custom-shield-and-trophy.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Signages",
+      "slug": "signages",
+      "canonicalUrl": "https://logosae.com/catalog/signages",
+      "summary": "Industrial, safety and directional signages.",
+      "productCount": 1,
+      "products": [
+        {
+          "id": 44,
+          "name": "Industrial Signage",
+          "description": "Safety and directional signs for industrial use.",
+          "image": "https://logosae.com/catalog-images/44-industrial-signage.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Stationeries",
+      "slug": "stationeries",
+      "canonicalUrl": "https://logosae.com/catalog/stationeries",
+      "summary": "Stationeries and customized stationery sets.",
+      "productCount": 1,
+      "products": [
+        {
+          "id": 50,
+          "name": "Customized Stationery Set",
+          "description": "Corporate notebooks, pens, and paper sets.",
+          "image": "https://logosae.com/catalog-images/50-customized-stationery-set.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Steel Wire Ropes",
+      "slug": "steel-wire-ropes",
+      "canonicalUrl": "https://logosae.com/catalog/steel-wire-ropes",
+      "summary": "Kiswire steel wire ropes and related wire rope supply requirements.",
+      "productCount": 1,
+      "products": [
+        {
+          "id": 49,
+          "name": "Kiswire Steel Wire Rope",
+          "description": "High-tensile Kiswire brand steel wire ropes.",
+          "image": "https://logosae.com/catalog-images/49-kiswire-steel-wire-rope.jpg"
+        }
+      ]
+    }
+  ],
+  "buyerQuestions": [
+    {
+      "question": "What does Logos International supply?",
+      "answer": "Logos International supplies PPE, health and safety requisites, medical consumables, hardware, uniforms, printing services, marine paints, Kiswire steel wire ropes, stationeries and miscellaneous products."
+    },
+    {
+      "question": "Where is Logos International based?",
+      "answer": "Logos International is based in Sharjah, United Arab Emirates, and supports customers across the UAE and GCC countries."
+    },
+    {
+      "question": "Can Logos International handle customized uniforms and printing?",
+      "answer": "Yes. The catalog covers ready made and customized clothing plus DTF, embroidery, sublimation, screen printing, offset printing, signages, shields and trophies."
+    },
+    {
+      "question": "How should a customer request a quotation?",
+      "answer": "Send the product name, quantity, specification, delivery location and timeline so the team can review availability and respond with the next practical step."
+    }
+  ],
+  "quoteInstructions": {
+    "requiredDetails": [
+      "product name",
+      "quantity",
+      "specification",
+      "delivery location",
+      "timeline"
+    ],
+    "contactEmail": "info@logos.ae",
+    "quoteStatus": "Quote on request"
+  }
+}

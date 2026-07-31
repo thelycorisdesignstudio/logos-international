@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Logos International Sharjah sourcing and supply company">
+  <rect width="1200" height="630" fill="#f7f7f3"/>
+  <path d="M0 470h1200v160H0z" fill="#111111"/>
+  <path d="M84 72h1032v1H84zM84 156h1032v1H84zM84 240h1032v1H84zM84 324h1032v1H84zM84 408h1032v1H84z" stroke="#deded8"/>
+  <rect x="84" y="82" width="108" height="108" rx="12" fill="#111111"/>
+  <path d="M113 108h14v47h34v12h-48v-59Z" fill="#ffffff"/>
+  <path d="M148 107h15v60h-15v-60Z" fill="#b34224"/>
+  <path d="M127 126h22v10h-22v-10Z" fill="#111111"/>
+  <path d="M160 128l12 7-12 7v-14Z" fill="#ffffff"/>
+  <path d="M127 151h21v8h-21v-8Z" fill="#111111"/>
+  <text x="84" y="280" font-family="DM Sans, Manrope, Arial, sans-serif" font-size="78" font-weight="700" fill="#111111">Logos International</text>
+  <text x="88" y="342" font-family="Manrope, DM Sans, Arial, sans-serif" font-size="34" font-weight="500" fill="#2d2d2b">Sharjah sourcing and supply company</text>
+  <text x="88" y="536" font-family="Manrope, DM Sans, Arial, sans-serif" font-size="30" font-weight="600" fill="#ffffff">PPE, industrial supplies, uniforms, printing and custom sourcing across UAE and GCC</text>
+  <text x="88" y="584" font-family="Manrope, DM Sans, Arial, sans-serif" font-size="22" font-weight="500" fill="#c9c9c1">logosae.com</text>
+</svg>

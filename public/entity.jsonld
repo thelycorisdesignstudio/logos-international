@@ -1,0 +1,2495 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "Organization",
+        "LocalBusiness"
+      ],
+      "@id": "https://logosae.com/#organization",
+      "name": "Logos International",
+      "legalName": "Logos International",
+      "url": "https://logosae.com/",
+      "logo": "https://logosae.com/logo-mark.svg",
+      "image": "https://logosae.com/og-image.svg",
+      "email": "info@logos.ae",
+      "description": "Sharjah, UAE multi-category sourcing and supply company providing PPE, health and safety requisites, medical consumables, hardware, uniforms, printing services and custom-order products across the UAE and GCC countries.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Sharjah",
+        "addressRegion": "Sharjah",
+        "addressCountry": "AE"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 25.3463,
+        "longitude": 55.4209
+      },
+      "areaServed": [
+        "Sharjah",
+        "Dubai",
+        "Abu Dhabi",
+        "Ajman",
+        "Ras Al Khaimah",
+        "Fujairah",
+        "United Arab Emirates",
+        "Saudi Arabia",
+        "Qatar",
+        "Oman",
+        "Bahrain",
+        "Kuwait",
+        "GCC countries"
+      ],
+      "knowsAbout": [
+        "Personal Protective Equipment",
+        "PPE",
+        "Health and safety requisites",
+        "Medical consumables",
+        "Hardware",
+        "Uniforms",
+        "Printing services",
+        "Marine paints",
+        "Kiswire steel wire ropes",
+        "Stationeries",
+        "Miscellaneous products",
+        "Bird & Cat Food",
+        "Building Materials & Hardware",
+        "Clothing",
+        "Eye & Ear Protection",
+        "Fall Protection",
+        "Hand Protection",
+        "Head Protection",
+        "Marine Paints",
+        "Medical Consumables",
+        "Miscellaneous Products",
+        "Order Suppliers",
+        "Printing Services",
+        "Respiratory Protection",
+        "Safety Footwear",
+        "Shields and Trophies",
+        "Signages",
+        "Stationeries",
+        "Steel Wire Ropes"
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "email": "info@logos.ae",
+        "contactType": "sales",
+        "areaServed": [
+          "AE",
+          "GCC"
+        ],
+        "availableLanguage": [
+          "English",
+          "Arabic"
+        ]
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "@id": "https://logosae.com/catalog#offer-catalog",
+        "name": "Logos International product categories",
+        "itemListElement": [
+          {
+            "@type": "OfferCatalog",
+            "position": 1,
+            "name": "Bird & Cat Food",
+            "description": "Bird and cat food plus related accessories.",
+            "url": "https://logosae.com/catalog/bird-and-cat-food"
+          },
+          {
+            "@type": "OfferCatalog",
+            "position": 2,
+            "name": "Building Materials & Hardware",
+            "description": "Building materials and hardware products supplied for commercial procurement requirements.",
+            "url": "https://logosae.com/catalog/building-materials-and-hardware"
+          },
+          {
+            "@type": "OfferCatalog",
+            "position": 3,
+            "name": "Clothing",
+            "description": "T-shirts, cargo pants, cotton coveralls, twill cotton uniforms, polycotton uniforms, high visibility reflective vests, disposable coveralls, fire retardant coveralls and lab coats.",
+            "url": "https://logosae.com/catalog/clothing"
+          },
+          {
+            "@type": "OfferCatalog",
+            "position": 4,
+            "name": "Eye & Ear Protection",
+            "description": "Face shields, safety goggles, safety spectacles, ear muffs and ear plugs.",
+            "url": "https://logosae.com/catalog/eye-and-ear-protection"
+          },
+          {
+            "@type": "OfferCatalog",
+            "position": 5,
+            "name": "Fall Protection",
+            "description": "Full body harnesses, lanyards, retractable fall arresters and cargo lashing belts.",
+            "url": "https://logosae.com/catalog/fall-protection"
+          },
+          {
+            "@type": "OfferCatalog",
+            "position": 6,
+            "name": "Hand Protection",
+            "description": "Dotted gloves, nitrile gloves, chemical resistant gloves, vinyl gloves, latex gloves, leather gloves and welding gloves.",
+            "url": "https://logosae.com/catalog/hand-protection"
+          },
+          {
+            "@type": "OfferCatalog",
+            "position": 7,
+            "name": "Head Protection",
+            "description": "Metal helmets, fiber helmets and helmets with ratchet and chin strap.",
+            "url": "https://logosae.com/catalog/head-protection"
+          },
+          {
+            "@type": "OfferCatalog",
+            "position": 8,
+            "name": "Marine Paints",
+            "description": "Marine paints for commercial and industrial supply requirements.",
+            "url": "https://logosae.com/catalog/marine-paints"
+          },
+          {
+            "@type": "OfferCatalog",
+            "position": 9,
+            "name": "Medical Consumables",
+            "description": "Medical consumables for hygiene, workplace and facility requirements.",
+            "url": "https://logosae.com/catalog/medical-consumables"
+          },
+          {
+            "@type": "OfferCatalog",
+            "position": 10,
+            "name": "Miscellaneous Products",
+            "description": "Oil spill kits, traffic cones, warning tapes, barriers, flash lights, PVC buckets, plastic drums, PVC aprons, garbage bags, bio-degradable bags, trolley bags, tool boxes, ladders, water coolers, first aid boxes, shoe covers, hairnets, fire resistant cabinets, nylon ropes, food grade silicones, cleaning accessories, hygiene products, stretch films, blower fans with ducts, winter jackets and ANZA refills or handles.",
+            "url": "https://logosae.com/catalog/miscellaneous-products"
+          },
+          {
+            "@type": "OfferCatalog",
+            "position": 11,
+            "name": "Order Suppliers",
+            "description": "Custom order sourcing for products not listed in the main catalog.",
+            "url": "https://logosae.com/catalog/order-suppliers"
+          },
+          {
+            "@type": "OfferCatalog",
+            "position": 12,
+            "name": "Printing Services",
+            "description": "DTF, embroidery, sublimation, screen printing, offset printing, signages, shields and trophies.",
+            "url": "https://logosae.com/catalog/printing-services"
+          },
+          {
+            "@type": "OfferCatalog",
+            "position": 13,
+            "name": "Respiratory Protection",
+            "description": "Surgical masks, N95 masks, full face masks, half face masks and respiratory masks.",
+            "url": "https://logosae.com/catalog/respiratory-protection"
+          },
+          {
+            "@type": "OfferCatalog",
+            "position": 14,
+            "name": "Safety Footwear",
+            "description": "Non-metal safety shoes, metal safety shoes, welder boots, gumboots and executive safety shoes.",
+            "url": "https://logosae.com/catalog/safety-footwear"
+          },
+          {
+            "@type": "OfferCatalog",
+            "position": 15,
+            "name": "Shields and Trophies",
+            "description": "Custom shields, trophies and recognition awards.",
+            "url": "https://logosae.com/catalog/shields-and-trophies"
+          },
+          {
+            "@type": "OfferCatalog",
+            "position": 16,
+            "name": "Signages",
+            "description": "Industrial, safety and directional signages.",
+            "url": "https://logosae.com/catalog/signages"
+          },
+          {
+            "@type": "OfferCatalog",
+            "position": 17,
+            "name": "Stationeries",
+            "description": "Stationeries and customized stationery sets.",
+            "url": "https://logosae.com/catalog/stationeries"
+          },
+          {
+            "@type": "OfferCatalog",
+            "position": 18,
+            "name": "Steel Wire Ropes",
+            "description": "Kiswire steel wire ropes and related wire rope supply requirements.",
+            "url": "https://logosae.com/catalog/steel-wire-ropes"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://logosae.com/#website",
+      "url": "https://logosae.com/",
+      "name": "Logos International",
+      "publisher": {
+        "@id": "https://logosae.com/#organization"
+      },
+      "inLanguage": "en-AE",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://logosae.com/catalog?search={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://logosae.com/catalog#catalog",
+      "name": "Logos International product catalog",
+      "url": "https://logosae.com/catalog",
+      "provider": {
+        "@id": "https://logosae.com/#organization"
+      },
+      "itemListElement": [
+        {
+          "@type": "OfferCatalog",
+          "position": 1,
+          "name": "Bird & Cat Food",
+          "description": "Bird and cat food plus related accessories.",
+          "url": "https://logosae.com/catalog/bird-and-cat-food",
+          "numberOfItems": 2,
+          "itemListElement": [
+            {
+              "@type": "Product",
+              "position": 1,
+              "name": "Dry Cat Food",
+              "description": "Dry food for cats and kittens.",
+              "category": "Bird & Cat Food",
+              "image": "https://logosae.com/catalog-images/45-dry-cat-food.jpg",
+              "url": "https://logosae.com/catalog/bird-and-cat-food",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 2,
+              "name": "Bird Feed & Accessories",
+              "description": "Variety of bird seeds and cage accessories.",
+              "category": "Bird & Cat Food",
+              "image": "https://logosae.com/catalog-images/46-bird-feed-and-accessories.jpg",
+              "url": "https://logosae.com/catalog/bird-and-cat-food",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 2,
+          "name": "Building Materials & Hardware",
+          "description": "Building materials and hardware products supplied for commercial procurement requirements.",
+          "url": "https://logosae.com/catalog/building-materials-and-hardware",
+          "numberOfItems": 3,
+          "itemListElement": [
+            {
+              "@type": "Product",
+              "position": 1,
+              "name": "Industrial Pipe Fittings",
+              "description": "Range of fittings and plumbing materials.",
+              "category": "Building Materials & Hardware",
+              "image": "https://logosae.com/catalog-images/37-industrial-pipe-fittings.jpg",
+              "url": "https://logosae.com/catalog/building-materials-and-hardware",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 2,
+              "name": "Building Materials",
+              "description": "General building materials supplied for commercial and industrial requirements.",
+              "category": "Building Materials & Hardware",
+              "image": "https://logosae.com/catalog-images/77-building-materials.jpg",
+              "url": "https://logosae.com/catalog/building-materials-and-hardware",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 3,
+              "name": "Hardware Supplies",
+              "description": "Hardware products sourced for maintenance, site, and facility supply needs.",
+              "category": "Building Materials & Hardware",
+              "image": "https://logosae.com/catalog-images/78-hardware-supplies.jpg",
+              "url": "https://logosae.com/catalog/building-materials-and-hardware",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 3,
+          "name": "Clothing",
+          "description": "T-shirts, cargo pants, cotton coveralls, twill cotton uniforms, polycotton uniforms, high visibility reflective vests, disposable coveralls, fire retardant coveralls and lab coats.",
+          "url": "https://logosae.com/catalog/clothing",
+          "numberOfItems": 8,
+          "itemListElement": [
+            {
+              "@type": "Product",
+              "position": 1,
+              "name": "Custom T-Shirt",
+              "description": "Ready made and customized t-shirts for corporate and industrial use.",
+              "category": "Clothing",
+              "image": "https://logosae.com/catalog-images/01-custom-t-shirt.jpg",
+              "url": "https://logosae.com/catalog/clothing",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 2,
+              "name": "Industrial Cargo Pants",
+              "description": "Durable cargo pants for workforce uniforms.",
+              "category": "Clothing",
+              "image": "https://logosae.com/catalog-images/02-industrial-cargo-pants.jpg",
+              "url": "https://logosae.com/catalog/clothing",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 3,
+              "name": "Cotton Coverall",
+              "description": "100% Cotton industrial coverall for standard protection.",
+              "category": "Clothing",
+              "image": "https://logosae.com/catalog-images/03-cotton-coverall.jpg",
+              "url": "https://logosae.com/catalog/clothing",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 4,
+              "name": "Twill Cotton 2pc Uniform",
+              "description": "Shirt and pants set made from high-quality twill cotton.",
+              "category": "Clothing",
+              "image": "https://logosae.com/catalog-images/04-twill-cotton-2pc-uniform.jpg",
+              "url": "https://logosae.com/catalog/clothing",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 5,
+              "name": "High Visibility Reflective Vest",
+              "description": "Standard safety vests with high intensity reflective strips.",
+              "category": "Clothing",
+              "image": "https://logosae.com/catalog-images/05-high-visibility-reflective-vest.jpg",
+              "url": "https://logosae.com/catalog/clothing",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 6,
+              "name": "Disposable Coverall",
+              "description": "Lightweight breathable disposable coveralls.",
+              "category": "Clothing",
+              "image": "https://logosae.com/catalog-images/06-disposable-coverall.jpg",
+              "url": "https://logosae.com/catalog/clothing",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 7,
+              "name": "Fire Retardant Coverall",
+              "description": "Certified FR coveralls for hazardous environments.",
+              "category": "Clothing",
+              "image": "https://logosae.com/catalog-images/07-fire-retardant-coverall.jpg",
+              "url": "https://logosae.com/catalog/clothing",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 8,
+              "name": "Lab Coat",
+              "description": "Professional lab coats for medical and laboratory staff.",
+              "category": "Clothing",
+              "image": "https://logosae.com/catalog-images/08-lab-coat.jpg",
+              "url": "https://logosae.com/catalog/clothing",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 4,
+          "name": "Eye & Ear Protection",
+          "description": "Face shields, safety goggles, safety spectacles, ear muffs and ear plugs.",
+          "url": "https://logosae.com/catalog/eye-and-ear-protection",
+          "numberOfItems": 5,
+          "itemListElement": [
+            {
+              "@type": "Product",
+              "position": 1,
+              "name": "Face Shield",
+              "description": "Full-face splash and impact protection.",
+              "category": "Eye & Ear Protection",
+              "image": "https://logosae.com/catalog-images/25-face-shield.jpg",
+              "url": "https://logosae.com/catalog/eye-and-ear-protection",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 2,
+              "name": "Safety Goggles",
+              "description": "Sealed goggles for chemical and dust protection.",
+              "category": "Eye & Ear Protection",
+              "image": "https://logosae.com/catalog-images/26-safety-goggles.jpg",
+              "url": "https://logosae.com/catalog/eye-and-ear-protection",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 3,
+              "name": "Safety Spectacles",
+              "description": "Clear and tinted safety glasses.",
+              "category": "Eye & Ear Protection",
+              "image": "https://logosae.com/catalog-images/27-safety-spectacles.jpg",
+              "url": "https://logosae.com/catalog/eye-and-ear-protection",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 4,
+              "name": "Ear Muff",
+              "description": "High-attenuation ear muffs for loud environments.",
+              "category": "Eye & Ear Protection",
+              "image": "https://logosae.com/catalog-images/28-ear-muff.jpg",
+              "url": "https://logosae.com/catalog/eye-and-ear-protection",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 5,
+              "name": "Ear Plug",
+              "description": "Soft foam disposable ear plugs.",
+              "category": "Eye & Ear Protection",
+              "image": "https://logosae.com/catalog-images/29-ear-plug.jpg",
+              "url": "https://logosae.com/catalog/eye-and-ear-protection",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 5,
+          "name": "Fall Protection",
+          "description": "Full body harnesses, lanyards, retractable fall arresters and cargo lashing belts.",
+          "url": "https://logosae.com/catalog/fall-protection",
+          "numberOfItems": 4,
+          "itemListElement": [
+            {
+              "@type": "Product",
+              "position": 1,
+              "name": "Full Body Harness",
+              "description": "Ergonomic harness for high-altitude work.",
+              "category": "Fall Protection",
+              "image": "https://logosae.com/catalog-images/33-full-body-harness.jpg",
+              "url": "https://logosae.com/catalog/fall-protection",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 2,
+              "name": "Lanyard",
+              "description": "Shock-absorbing lanyards for fall arrest.",
+              "category": "Fall Protection",
+              "image": "https://logosae.com/catalog-images/34-lanyard.jpg",
+              "url": "https://logosae.com/catalog/fall-protection",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 3,
+              "name": "Retractable Fall Arrester",
+              "description": "Automatic self-retracting lifeline.",
+              "category": "Fall Protection",
+              "image": "https://logosae.com/catalog-images/35-retractable-fall-arrester.jpg",
+              "url": "https://logosae.com/catalog/fall-protection",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 4,
+              "name": "Cargo Lashing Belt",
+              "description": "Heavy-duty ratchet straps for cargo security.",
+              "category": "Fall Protection",
+              "image": "https://logosae.com/catalog-images/36-cargo-lashing-belt.jpg",
+              "url": "https://logosae.com/catalog/fall-protection",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 6,
+          "name": "Hand Protection",
+          "description": "Dotted gloves, nitrile gloves, chemical resistant gloves, vinyl gloves, latex gloves, leather gloves and welding gloves.",
+          "url": "https://logosae.com/catalog/hand-protection",
+          "numberOfItems": 7,
+          "itemListElement": [
+            {
+              "@type": "Product",
+              "position": 1,
+              "name": "Dotted Gloves",
+              "description": "Grip-enhanced cotton gloves for general handling.",
+              "category": "Hand Protection",
+              "image": "https://logosae.com/catalog-images/14-dotted-gloves.jpg",
+              "url": "https://logosae.com/catalog/hand-protection",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 2,
+              "name": "Nitrile Gloves",
+              "description": "Heavy-duty nitrile assessment and industrial gloves.",
+              "category": "Hand Protection",
+              "image": "https://logosae.com/catalog-images/15-nitrile-gloves.jpg",
+              "url": "https://logosae.com/catalog/hand-protection",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 3,
+              "name": "Chemical Resistant Gloves",
+              "description": "Latex or PVC gloves for safe chemical handling.",
+              "category": "Hand Protection",
+              "image": "https://logosae.com/catalog-images/16-chemical-resistant-gloves.jpg",
+              "url": "https://logosae.com/catalog/hand-protection",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 4,
+              "name": "Vinyl Gloves",
+              "description": "Disposable vinyl gloves for hygiene, medical, and light-duty handling.",
+              "category": "Hand Protection",
+              "image": "https://logosae.com/catalog-images/17-vinyl-gloves.jpg",
+              "url": "https://logosae.com/catalog/hand-protection",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 5,
+              "name": "Latex Gloves",
+              "description": "Flexible latex gloves for medical, cleaning, and general protection use.",
+              "category": "Hand Protection",
+              "image": "https://logosae.com/catalog-images/18-latex-gloves.jpg",
+              "url": "https://logosae.com/catalog/hand-protection",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 6,
+              "name": "Leather Gloves",
+              "description": "Durable leather gloves for handling, rigging, and workshop environments.",
+              "category": "Hand Protection",
+              "image": "https://logosae.com/catalog-images/19-leather-gloves.jpg",
+              "url": "https://logosae.com/catalog/hand-protection",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 7,
+              "name": "Welding Gloves",
+              "description": "Heat-resistant welding gloves for fabrication and maintenance work.",
+              "category": "Hand Protection",
+              "image": "https://logosae.com/catalog-images/20-welding-gloves.jpg",
+              "url": "https://logosae.com/catalog/hand-protection",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 7,
+          "name": "Head Protection",
+          "description": "Metal helmets, fiber helmets and helmets with ratchet and chin strap.",
+          "url": "https://logosae.com/catalog/head-protection",
+          "numberOfItems": 3,
+          "itemListElement": [
+            {
+              "@type": "Product",
+              "position": 1,
+              "name": "Metal Helmet",
+              "description": "Metal safety helmets for industrial work.",
+              "category": "Head Protection",
+              "image": "https://logosae.com/catalog-images/30-metal-helmet.jpg",
+              "url": "https://logosae.com/catalog/head-protection",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 2,
+              "name": "Fiber Helmet",
+              "description": "Lightweight fiber-reinforced hard hats.",
+              "category": "Head Protection",
+              "image": "https://logosae.com/catalog-images/31-fiber-helmet.jpg",
+              "url": "https://logosae.com/catalog/head-protection",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 3,
+              "name": "Helmet with Ratchet & Chin Strap",
+              "description": "Adjustable safety helmet with secure chin strap.",
+              "category": "Head Protection",
+              "image": "https://logosae.com/catalog-images/32-helmet-with-ratchet-and-chin-strap.jpg",
+              "url": "https://logosae.com/catalog/head-protection",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 8,
+          "name": "Marine Paints",
+          "description": "Marine paints for commercial and industrial supply requirements.",
+          "url": "https://logosae.com/catalog/marine-paints",
+          "numberOfItems": 1,
+          "itemListElement": [
+            {
+              "@type": "Product",
+              "position": 1,
+              "name": "Marine Anti-Fouling Paint",
+              "description": "Anti-fouling paint for marine hull protection.",
+              "category": "Marine Paints",
+              "image": "https://logosae.com/catalog-images/48-marine-anti-fouling-paint.jpg",
+              "url": "https://logosae.com/catalog/marine-paints",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 9,
+          "name": "Medical Consumables",
+          "description": "Medical consumables for hygiene, workplace and facility requirements.",
+          "url": "https://logosae.com/catalog/medical-consumables",
+          "numberOfItems": 1,
+          "itemListElement": [
+            {
+              "@type": "Product",
+              "position": 1,
+              "name": "Medical Consumables",
+              "description": "General medical consumables supplied on request for hygiene, workplace, and facility needs.",
+              "category": "Medical Consumables",
+              "image": "https://logosae.com/catalog-images/76-medical-consumables.jpg",
+              "url": "https://logosae.com/catalog/medical-consumables",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 10,
+          "name": "Miscellaneous Products",
+          "description": "Oil spill kits, traffic cones, warning tapes, barriers, flash lights, PVC buckets, plastic drums, PVC aprons, garbage bags, bio-degradable bags, trolley bags, tool boxes, ladders, water coolers, first aid boxes, shoe covers, hairnets, fire resistant cabinets, nylon ropes, food grade silicones, cleaning accessories, hygiene products, stretch films, blower fans with ducts, winter jackets and ANZA refills or handles.",
+          "url": "https://logosae.com/catalog/miscellaneous-products",
+          "numberOfItems": 25,
+          "itemListElement": [
+            {
+              "@type": "Product",
+              "position": 1,
+              "name": "Oil Spill Kit",
+              "description": "Complete chemical and oil spill response kit.",
+              "category": "Miscellaneous Products",
+              "image": "https://logosae.com/catalog-images/51-oil-spill-kit.jpg",
+              "url": "https://logosae.com/catalog/miscellaneous-products",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 2,
+              "name": "Industrial Traffic Cone",
+              "description": "High-visibility reflective road cones.",
+              "category": "Miscellaneous Products",
+              "image": "https://logosae.com/catalog-images/52-industrial-traffic-cone.jpg",
+              "url": "https://logosae.com/catalog/miscellaneous-products",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 3,
+              "name": "Warning Tape",
+              "description": "Barrier tape for marking hazardous areas.",
+              "category": "Miscellaneous Products",
+              "image": "https://logosae.com/catalog-images/53-warning-tape.jpg",
+              "url": "https://logosae.com/catalog/miscellaneous-products",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 4,
+              "name": "Safety Barrier",
+              "description": "Expandable and fixed safety barriers.",
+              "category": "Miscellaneous Products",
+              "image": "https://logosae.com/catalog-images/54-safety-barrier.jpg",
+              "url": "https://logosae.com/catalog/miscellaneous-products",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 5,
+              "name": "High-Power Flashlight",
+              "description": "Rechargeable industrial-grade torches.",
+              "category": "Miscellaneous Products",
+              "image": "https://logosae.com/catalog-images/55-high-power-flashlight.jpg",
+              "url": "https://logosae.com/catalog/miscellaneous-products",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 6,
+              "name": "PVC Bucket / Plastic Drum",
+              "description": "Durable storage and material handling buckets.",
+              "category": "Miscellaneous Products",
+              "image": "https://logosae.com/catalog-images/56-pvc-bucket-plastic-drum.jpg",
+              "url": "https://logosae.com/catalog/miscellaneous-products",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 7,
+              "name": "PVC Apron",
+              "description": "Chemical resistant work apron.",
+              "category": "Miscellaneous Products",
+              "image": "https://logosae.com/catalog-images/57-pvc-apron.jpg",
+              "url": "https://logosae.com/catalog/miscellaneous-products",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 8,
+              "name": "Garbage Bags",
+              "description": "Garbage bags supplied for facility, hygiene, and commercial waste requirements.",
+              "category": "Miscellaneous Products",
+              "image": "https://logosae.com/catalog-images/79-garbage-bags.jpg",
+              "url": "https://logosae.com/catalog/miscellaneous-products",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 9,
+              "name": "Bio-degradable Garbage Bags",
+              "description": "Environmentally friendly waste management bags.",
+              "category": "Miscellaneous Products",
+              "image": "https://logosae.com/catalog-images/58-bio-degradable-garbage-bags.jpg",
+              "url": "https://logosae.com/catalog/miscellaneous-products",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 10,
+              "name": "Trolley Bag",
+              "description": "Heavy-duty bags for tools and equipment.",
+              "category": "Miscellaneous Products",
+              "image": "https://logosae.com/catalog-images/59-trolley-bag.png",
+              "url": "https://logosae.com/catalog/miscellaneous-products",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 11,
+              "name": "Industrial Tool Box",
+              "description": "Secure storage for professional tools.",
+              "category": "Miscellaneous Products",
+              "image": "https://logosae.com/catalog-images/60-industrial-tool-box.jpg",
+              "url": "https://logosae.com/catalog/miscellaneous-products",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 12,
+              "name": "Aluminum Ladder",
+              "description": "Multi-step foldable aluminum ladders.",
+              "category": "Miscellaneous Products",
+              "image": "https://logosae.com/catalog-images/61-aluminum-ladder.jpg",
+              "url": "https://logosae.com/catalog/miscellaneous-products",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 13,
+              "name": "Insulated Water Cooler",
+              "description": "Insulated cooler for job-site hydration and cold storage.",
+              "category": "Miscellaneous Products",
+              "image": "https://logosae.com/catalog-images/62-insulated-water-cooler.jpg",
+              "url": "https://logosae.com/catalog/miscellaneous-products",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 14,
+              "name": "First Aid Box",
+              "description": "HSE compliant medical first aid kits.",
+              "category": "Miscellaneous Products",
+              "image": "https://logosae.com/catalog-images/63-first-aid-box.jpg",
+              "url": "https://logosae.com/catalog/miscellaneous-products",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 15,
+              "name": "Disposable Shoe Covers",
+              "description": "Box of 100 anti-slip shoe covers.",
+              "category": "Miscellaneous Products",
+              "image": "https://logosae.com/catalog-images/64-disposable-shoe-covers.jpg",
+              "url": "https://logosae.com/catalog/miscellaneous-products",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 16,
+              "name": "Hairnet Bulk Pack",
+              "description": "Disposable hairnets for food and medical use.",
+              "category": "Miscellaneous Products",
+              "image": "https://logosae.com/catalog-images/65-hairnet-bulk-pack.jpg",
+              "url": "https://logosae.com/catalog/miscellaneous-products",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 17,
+              "name": "Fire Resistant Cabinet",
+              "description": "Safety cabinets for hazardous material storage.",
+              "category": "Miscellaneous Products",
+              "image": "https://logosae.com/catalog-images/66-fire-resistant-cabinet.jpg",
+              "url": "https://logosae.com/catalog/miscellaneous-products",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 18,
+              "name": "Nylon Rope",
+              "description": "High-strength nylon ropes for rigging.",
+              "category": "Miscellaneous Products",
+              "image": "https://logosae.com/catalog-images/67-nylon-rope.jpg",
+              "url": "https://logosae.com/catalog/miscellaneous-products",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 19,
+              "name": "Food Grade Silicone",
+              "description": "Safe sealants for food processing environments.",
+              "category": "Miscellaneous Products",
+              "image": "https://logosae.com/catalog-images/68-food-grade-silicone.jpg",
+              "url": "https://logosae.com/catalog/miscellaneous-products",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 20,
+              "name": "Cleaning Accessories",
+              "description": "Industrial janitorial supplies and tools.",
+              "category": "Miscellaneous Products",
+              "image": "https://logosae.com/catalog-images/69-cleaning-accessories.jpg",
+              "url": "https://logosae.com/catalog/miscellaneous-products",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 21,
+              "name": "Hygiene Products",
+              "description": "Sanitizers, soaps, and hygiene essentials.",
+              "category": "Miscellaneous Products",
+              "image": "https://logosae.com/catalog-images/70-hygiene-products.jpg",
+              "url": "https://logosae.com/catalog/miscellaneous-products",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 22,
+              "name": "Industrial Stretch Film",
+              "description": "Durable pallet wrapping film.",
+              "category": "Miscellaneous Products",
+              "image": "https://logosae.com/catalog-images/71-industrial-stretch-film.jpg",
+              "url": "https://logosae.com/catalog/miscellaneous-products",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 23,
+              "name": "Blower Fan with Duct",
+              "description": "Portable ventilation fans for confined spaces.",
+              "category": "Miscellaneous Products",
+              "image": "https://logosae.com/catalog-images/72-blower-fan-with-duct.jpg",
+              "url": "https://logosae.com/catalog/miscellaneous-products",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 24,
+              "name": "Winter Jacket",
+              "description": "Insulated jackets for cold environment work.",
+              "category": "Miscellaneous Products",
+              "image": "https://logosae.com/catalog-images/73-winter-jacket.jpg",
+              "url": "https://logosae.com/catalog/miscellaneous-products",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 25,
+              "name": "ANZA Refills & Handles",
+              "description": "Professional painting tool refills and handles.",
+              "category": "Miscellaneous Products",
+              "image": "https://logosae.com/catalog-images/74-anza-refills-and-handles.jpg",
+              "url": "https://logosae.com/catalog/miscellaneous-products",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 11,
+          "name": "Order Suppliers",
+          "description": "Custom order sourcing for products not listed in the main catalog.",
+          "url": "https://logosae.com/catalog/order-suppliers",
+          "numberOfItems": 1,
+          "itemListElement": [
+            {
+              "@type": "Product",
+              "position": 1,
+              "name": "Custom Order Sourcing",
+              "description": "Product sourcing for items not listed in the main catalog.",
+              "category": "Order Suppliers",
+              "image": "https://logosae.com/catalog-images/47-custom-order-sourcing.jpg",
+              "url": "https://logosae.com/catalog/order-suppliers",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 12,
+          "name": "Printing Services",
+          "description": "DTF, embroidery, sublimation, screen printing, offset printing, signages, shields and trophies.",
+          "url": "https://logosae.com/catalog/printing-services",
+          "numberOfItems": 5,
+          "itemListElement": [
+            {
+              "@type": "Product",
+              "position": 1,
+              "name": "DTF Printing",
+              "description": "Direct-to-film high resolution printing.",
+              "category": "Printing Services",
+              "image": "https://logosae.com/catalog-images/38-dtf-printing.jpg",
+              "url": "https://logosae.com/catalog/printing-services",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 2,
+              "name": "Embroidery Service",
+              "description": "Professional machine embroidery for logos.",
+              "category": "Printing Services",
+              "image": "https://logosae.com/catalog-images/39-embroidery-service.jpg",
+              "url": "https://logosae.com/catalog/printing-services",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 3,
+              "name": "Sublimation Printing",
+              "description": "All-over print sublimation services.",
+              "category": "Printing Services",
+              "image": "https://logosae.com/catalog-images/40-sublimation-printing.jpg",
+              "url": "https://logosae.com/catalog/printing-services",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 4,
+              "name": "Screen Printing",
+              "description": "Bulk screen printing for uniforms.",
+              "category": "Printing Services",
+              "image": "https://logosae.com/catalog-images/41-screen-printing.jpg",
+              "url": "https://logosae.com/catalog/printing-services",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 5,
+              "name": "Offset Printing",
+              "description": "High-volume paper and stationery printing.",
+              "category": "Printing Services",
+              "image": "https://logosae.com/catalog-images/42-offset-printing.jpg",
+              "url": "https://logosae.com/catalog/printing-services",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 13,
+          "name": "Respiratory Protection",
+          "description": "Surgical masks, N95 masks, full face masks, half face masks and respiratory masks.",
+          "url": "https://logosae.com/catalog/respiratory-protection",
+          "numberOfItems": 5,
+          "itemListElement": [
+            {
+              "@type": "Product",
+              "position": 1,
+              "name": "Surgical Masks",
+              "description": "Disposable surgical masks for workplace, hygiene, and medical consumable supply.",
+              "category": "Respiratory Protection",
+              "image": "https://logosae.com/catalog-images/21-surgical-masks.jpg",
+              "url": "https://logosae.com/catalog/respiratory-protection",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 2,
+              "name": "N95 Mask",
+              "description": "High-filtration particulate respirator masks.",
+              "category": "Respiratory Protection",
+              "image": "https://logosae.com/catalog-images/22-n95-mask.jpg",
+              "url": "https://logosae.com/catalog/respiratory-protection",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 3,
+              "name": "Full Face Mask",
+              "description": "Complete respiratory protection with full vision.",
+              "category": "Respiratory Protection",
+              "image": "https://logosae.com/catalog-images/23-full-face-mask.jpg",
+              "url": "https://logosae.com/catalog/respiratory-protection",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 4,
+              "name": "Half Face Mask",
+              "description": "Twin filter half-face respirator.",
+              "category": "Respiratory Protection",
+              "image": "https://logosae.com/catalog-images/24-half-face-mask.jpg",
+              "url": "https://logosae.com/catalog/respiratory-protection",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 5,
+              "name": "Respiratory Mask",
+              "description": "General respiratory masks for dust, particles, and workplace protection.",
+              "category": "Respiratory Protection",
+              "image": "https://logosae.com/catalog-images/75-respiratory-mask.jpg",
+              "url": "https://logosae.com/catalog/respiratory-protection",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 14,
+          "name": "Safety Footwear",
+          "description": "Non-metal safety shoes, metal safety shoes, welder boots, gumboots and executive safety shoes.",
+          "url": "https://logosae.com/catalog/safety-footwear",
+          "numberOfItems": 5,
+          "itemListElement": [
+            {
+              "@type": "Product",
+              "position": 1,
+              "name": "Non-Metal Safety Shoes",
+              "description": "Lightweight safety shoes with composite protection. 100% Metal-free construction.",
+              "category": "Safety Footwear",
+              "image": "https://logosae.com/catalog-images/09-non-metal-safety-shoes.jpg",
+              "url": "https://logosae.com/catalog/safety-footwear",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 2,
+              "name": "Metal Safety Shoes",
+              "description": "Traditional steel-toe safety footwear for heavy construction.",
+              "category": "Safety Footwear",
+              "image": "https://logosae.com/catalog-images/10-metal-safety-shoes.jpg",
+              "url": "https://logosae.com/catalog/safety-footwear",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 3,
+              "name": "Welder Boot",
+              "description": "High-heat resistant boots with quick-release velcro for welding.",
+              "category": "Safety Footwear",
+              "image": "https://logosae.com/catalog-images/11-welder-boot.jpg",
+              "url": "https://logosae.com/catalog/safety-footwear",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 4,
+              "name": "Gumboot",
+              "description": "Waterproof PVC boots with safety toe.",
+              "category": "Safety Footwear",
+              "image": "https://logosae.com/catalog-images/12-gumboot.jpg",
+              "url": "https://logosae.com/catalog/safety-footwear",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            },
+            {
+              "@type": "Product",
+              "position": 5,
+              "name": "Executive Safety Shoes",
+              "description": "Formal safety shoes for site-to-office use.",
+              "category": "Safety Footwear",
+              "image": "https://logosae.com/catalog-images/13-executive-safety-shoes.jpg",
+              "url": "https://logosae.com/catalog/safety-footwear",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 15,
+          "name": "Shields and Trophies",
+          "description": "Custom shields, trophies and recognition awards.",
+          "url": "https://logosae.com/catalog/shields-and-trophies",
+          "numberOfItems": 1,
+          "itemListElement": [
+            {
+              "@type": "Product",
+              "position": 1,
+              "name": "Custom Shield & Trophy",
+              "description": "Recognition awards and corporate trophies.",
+              "category": "Shields and Trophies",
+              "image": "https://logosae.com/catalog-images/43-custom-shield-and-trophy.jpg",
+              "url": "https://logosae.com/catalog/shields-and-trophies",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 16,
+          "name": "Signages",
+          "description": "Industrial, safety and directional signages.",
+          "url": "https://logosae.com/catalog/signages",
+          "numberOfItems": 1,
+          "itemListElement": [
+            {
+              "@type": "Product",
+              "position": 1,
+              "name": "Industrial Signage",
+              "description": "Safety and directional signs for industrial use.",
+              "category": "Signages",
+              "image": "https://logosae.com/catalog-images/44-industrial-signage.jpg",
+              "url": "https://logosae.com/catalog/signages",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 17,
+          "name": "Stationeries",
+          "description": "Stationeries and customized stationery sets.",
+          "url": "https://logosae.com/catalog/stationeries",
+          "numberOfItems": 1,
+          "itemListElement": [
+            {
+              "@type": "Product",
+              "position": 1,
+              "name": "Customized Stationery Set",
+              "description": "Corporate notebooks, pens, and paper sets.",
+              "category": "Stationeries",
+              "image": "https://logosae.com/catalog-images/50-customized-stationery-set.jpg",
+              "url": "https://logosae.com/catalog/stationeries",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "OfferCatalog",
+          "position": 18,
+          "name": "Steel Wire Ropes",
+          "description": "Kiswire steel wire ropes and related wire rope supply requirements.",
+          "url": "https://logosae.com/catalog/steel-wire-ropes",
+          "numberOfItems": 1,
+          "itemListElement": [
+            {
+              "@type": "Product",
+              "position": 1,
+              "name": "Kiswire Steel Wire Rope",
+              "description": "High-tensile Kiswire brand steel wire ropes.",
+              "category": "Steel Wire Ropes",
+              "image": "https://logosae.com/catalog-images/49-kiswire-steel-wire-rope.jpg",
+              "url": "https://logosae.com/catalog/steel-wire-ropes",
+              "brand": {
+                "@id": "https://logosae.com/#organization"
+              },
+              "additionalProperty": [
+                {
+                  "@type": "PropertyValue",
+                  "name": "Pricing",
+                  "value": "Quote on request"
+                },
+                {
+                  "@type": "PropertyValue",
+                  "name": "Availability",
+                  "value": "Confirmed after inquiry"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://logosae.com/#answers",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does Logos International supply?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Logos International supplies PPE, health and safety requisites, medical consumables, hardware, uniforms, printing services, marine paints, Kiswire steel wire ropes, stationeries and miscellaneous products."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where is Logos International based?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Logos International is based in Sharjah, United Arab Emirates, and supports customers across the UAE and GCC countries."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can Logos International handle customized uniforms and printing?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The catalog covers ready made and customized clothing plus DTF, embroidery, sublimation, screen printing, offset printing, signages, shields and trophies."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How should a customer request a quotation?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Send the product name, quantity, specification, delivery location and timeline so the team can review availability and respond with the next practical step."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://logosae.com/coverage#regional-pages",
+      "name": "Logos International UAE and GCC coverage pages",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "url": "https://logosae.com/coverage/sharjah",
+          "name": "Sharjah PPE, Safety and Industrial Supplier | Logos International",
+          "description": "Sharjah supplier for PPE, safety requisites, medical consumables, uniforms, hardware, printing services and custom sourcing with UAE and GCC support."
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "url": "https://logosae.com/coverage/dubai",
+          "name": "Dubai PPE, Uniforms and Safety Supplier | Logos International UAE",
+          "description": "PPE, safety footwear, gloves, masks, uniforms, hardware and printing supply support for Dubai businesses through Logos International."
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "url": "https://logosae.com/coverage/abu-dhabi",
+          "name": "Abu Dhabi PPE and Industrial Supplier | Logos International",
+          "description": "Abu Dhabi PPE, safety, hardware, uniforms, medical consumables and industrial supply inquiries supported by Logos International."
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "url": "https://logosae.com/coverage/ajman",
+          "name": "Ajman PPE, Uniforms and Facility Supplier | Logos International UAE",
+          "description": "Ajman PPE, uniforms, safety footwear, gloves, masks, hygiene products, hardware and printing supply inquiries supported by Logos International."
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "url": "https://logosae.com/coverage/ras-al-khaimah",
+          "name": "Ras Al Khaimah PPE and Industrial Supplier | Logos International UAE",
+          "description": "Ras Al Khaimah PPE, safety products, hardware, helmets, fall protection, wire ropes and custom industrial supply inquiries."
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "url": "https://logosae.com/coverage/fujairah",
+          "name": "Fujairah Marine, PPE and Industrial Supplier | Logos International UAE",
+          "description": "Fujairah marine paints, Kiswire steel wire ropes, PPE, gloves, helmets, safety footwear and industrial supply inquiries."
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "url": "https://logosae.com/coverage/saudi-arabia",
+          "name": "Saudi Arabia PPE and Industrial Sourcing | Logos International GCC",
+          "description": "Saudi Arabia sourcing inquiries for PPE, safety requisites, uniforms, hardware, marine paints, Kiswire steel wire ropes and custom supply."
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "url": "https://logosae.com/coverage/qatar",
+          "name": "Qatar PPE, Uniform and Industrial Sourcing | Logos International",
+          "description": "Qatar sourcing inquiries for PPE, safety requisites, uniforms, hardware, printing services and custom-order products."
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "url": "https://logosae.com/coverage/oman",
+          "name": "Oman PPE, Marine Paints and Industrial Sourcing | Logos International",
+          "description": "Oman sourcing inquiries for PPE, marine paints, Kiswire steel wire ropes, safety requisites, uniforms, hardware and custom products."
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "url": "https://logosae.com/coverage/bahrain",
+          "name": "Bahrain PPE and Commercial Supply Sourcing | Logos International",
+          "description": "Bahrain sourcing inquiries for PPE, safety requisites, uniforms, stationery, medical consumables, printing and custom-order products."
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "url": "https://logosae.com/coverage/kuwait",
+          "name": "Kuwait PPE, Safety and Custom Order Sourcing | Logos International",
+          "description": "Kuwait sourcing inquiries for PPE, safety footwear, gloves, masks, helmets, hardware, printing and miscellaneous products."
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://logosae.com/industries#industry-pages",
+      "name": "Logos International industry supply pages",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "url": "https://logosae.com/industries/construction",
+          "name": "Construction PPE and Hardware Supplier UAE GCC | Logos International",
+          "description": "Construction site PPE, safety footwear, helmets, fall protection, gloves, hardware and consumables for UAE and GCC supply inquiries."
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "url": "https://logosae.com/industries/marine",
+          "name": "Marine Paints, Wire Ropes and PPE Supplier UAE GCC | Logos International",
+          "description": "Marine paints, Kiswire steel wire ropes, PPE, hand protection, helmets and industrial supply inquiries for UAE and GCC buyers."
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "url": "https://logosae.com/industries/facilities",
+          "name": "Facilities PPE, Hygiene and Operations Supplier UAE | Logos International",
+          "description": "Facilities supply inquiries for PPE, medical consumables, hygiene products, signage, stationery, cleaning accessories and operations items."
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "url": "https://logosae.com/industries/healthcare",
+          "name": "Medical Consumables, Masks and Gloves Supplier UAE | Logos International",
+          "description": "Medical consumables, masks, gloves, disposable coveralls, lab coats, shoe covers, hairnets and hygiene product inquiries in UAE and GCC."
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "url": "https://logosae.com/industries/hospitality",
+          "name": "Hospitality Uniforms, Printing and Supply UAE | Logos International",
+          "description": "Hospitality uniforms, branded printing, signage, trophies, stationery, hygiene products and operational supply inquiries in UAE and GCC."
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "url": "https://logosae.com/industries/printing-branding",
+          "name": "Printing, Branding, Signage and Trophies UAE | Logos International",
+          "description": "DTF, embroidery, sublimation, screen printing, offset printing, signage, shields and trophies for UAE and GCC inquiries."
+        }
+      ]
+    }
+  ]
+}

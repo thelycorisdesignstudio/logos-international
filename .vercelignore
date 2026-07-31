@@ -1,0 +1,9 @@
+output/
+tmp/
+test-results/
+playwright-report/
+docs/
+CODEX_MEMORY.md
+*.log
+*.out
+*.err

@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://logosae.com/</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Logos International | PPE, Safety and Industrial Supplier in Sharjah UAE and GCC</image:title>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/catalog</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>PPE, Uniforms, Hardware and Safety Catalog | Logos International UAE GCC</image:title>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/services</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Sourcing, Supply and Delivery Services | UAE and GCC | Logos International</image:title>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.82</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/coverage</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>UAE and GCC PPE, Safety and Industrial Supply Coverage | Logos International</image:title>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/industries</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Industry Supply Pages for Construction, Marine, Facilities and Healthcare | Logos International</image:title>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.88</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/contact</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Contact Logos International | Sharjah UAE and GCC Supply Inquiries</image:title>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.78</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/privacy</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Privacy Policy | Logos International</image:title>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/terms</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Terms of Service | Logos International</image:title>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/coverage/sharjah</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Sharjah PPE, Safety and Industrial Supplier | Logos International</image:title>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.84</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/coverage/dubai</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Dubai PPE, Uniforms and Safety Supplier | Logos International UAE</image:title>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.84</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/coverage/abu-dhabi</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Abu Dhabi PPE and Industrial Supplier | Logos International</image:title>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.84</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/coverage/ajman</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Ajman PPE, Uniforms and Facility Supplier | Logos International UAE</image:title>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.84</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/coverage/ras-al-khaimah</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Ras Al Khaimah PPE and Industrial Supplier | Logos International UAE</image:title>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.84</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/coverage/fujairah</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Fujairah Marine, PPE and Industrial Supplier | Logos International UAE</image:title>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.84</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/coverage/saudi-arabia</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Saudi Arabia PPE and Industrial Sourcing | Logos International GCC</image:title>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.84</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/coverage/qatar</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Qatar PPE, Uniform and Industrial Sourcing | Logos International</image:title>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.84</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/coverage/oman</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Oman PPE, Marine Paints and Industrial Sourcing | Logos International</image:title>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.84</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/coverage/bahrain</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Bahrain PPE and Commercial Supply Sourcing | Logos International</image:title>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.84</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/coverage/kuwait</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Kuwait PPE, Safety and Custom Order Sourcing | Logos International</image:title>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.84</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/industries/construction</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Construction PPE and Hardware Supplier UAE GCC | Logos International</image:title>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.83</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/industries/marine</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Marine Paints, Wire Ropes and PPE Supplier UAE GCC | Logos International</image:title>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.83</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/industries/facilities</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Facilities PPE, Hygiene and Operations Supplier UAE | Logos International</image:title>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.83</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/industries/healthcare</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Medical Consumables, Masks and Gloves Supplier UAE | Logos International</image:title>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.83</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/industries/hospitality</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Hospitality Uniforms, Printing and Supply UAE | Logos International</image:title>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.83</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/industries/printing-branding</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Printing, Branding, Signage and Trophies UAE | Logos International</image:title>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.83</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/catalog/bird-and-cat-food</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Bird &amp; Cat Food Supplier in UAE | Logos International</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/45-dry-cat-food.jpg</image:loc>
+      <image:title>Dry Cat Food</image:title>
+      <image:caption>Dry food for cats and kittens.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/46-bird-feed-and-accessories.jpg</image:loc>
+      <image:title>Bird Feed &amp; Accessories</image:title>
+      <image:caption>Variety of bird seeds and cage accessories.</image:caption>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.86</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/catalog/building-materials-and-hardware</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Building Materials &amp; Hardware Supplier in UAE | Logos International</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/37-industrial-pipe-fittings.jpg</image:loc>
+      <image:title>Industrial Pipe Fittings</image:title>
+      <image:caption>Range of fittings and plumbing materials.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/77-building-materials.jpg</image:loc>
+      <image:title>Building Materials</image:title>
+      <image:caption>General building materials supplied for commercial and industrial requirements.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/78-hardware-supplies.jpg</image:loc>
+      <image:title>Hardware Supplies</image:title>
+      <image:caption>Hardware products sourced for maintenance, site, and facility supply needs.</image:caption>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.86</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/catalog/clothing</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Clothing Supplier in UAE | Logos International</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/01-custom-t-shirt.jpg</image:loc>
+      <image:title>Custom T-Shirt</image:title>
+      <image:caption>Ready made and customized t-shirts for corporate and industrial use.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/02-industrial-cargo-pants.jpg</image:loc>
+      <image:title>Industrial Cargo Pants</image:title>
+      <image:caption>Durable cargo pants for workforce uniforms.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/03-cotton-coverall.jpg</image:loc>
+      <image:title>Cotton Coverall</image:title>
+      <image:caption>100% Cotton industrial coverall for standard protection.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/04-twill-cotton-2pc-uniform.jpg</image:loc>
+      <image:title>Twill Cotton 2pc Uniform</image:title>
+      <image:caption>Shirt and pants set made from high-quality twill cotton.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/05-high-visibility-reflective-vest.jpg</image:loc>
+      <image:title>High Visibility Reflective Vest</image:title>
+      <image:caption>Standard safety vests with high intensity reflective strips.</image:caption>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.86</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/catalog/eye-and-ear-protection</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Eye &amp; Ear Protection Supplier in UAE | Logos International</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/25-face-shield.jpg</image:loc>
+      <image:title>Face Shield</image:title>
+      <image:caption>Full-face splash and impact protection.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/26-safety-goggles.jpg</image:loc>
+      <image:title>Safety Goggles</image:title>
+      <image:caption>Sealed goggles for chemical and dust protection.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/27-safety-spectacles.jpg</image:loc>
+      <image:title>Safety Spectacles</image:title>
+      <image:caption>Clear and tinted safety glasses.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/28-ear-muff.jpg</image:loc>
+      <image:title>Ear Muff</image:title>
+      <image:caption>High-attenuation ear muffs for loud environments.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/29-ear-plug.jpg</image:loc>
+      <image:title>Ear Plug</image:title>
+      <image:caption>Soft foam disposable ear plugs.</image:caption>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.86</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/catalog/fall-protection</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Fall Protection Supplier in UAE | Logos International</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/33-full-body-harness.jpg</image:loc>
+      <image:title>Full Body Harness</image:title>
+      <image:caption>Ergonomic harness for high-altitude work.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/34-lanyard.jpg</image:loc>
+      <image:title>Lanyard</image:title>
+      <image:caption>Shock-absorbing lanyards for fall arrest.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/35-retractable-fall-arrester.jpg</image:loc>
+      <image:title>Retractable Fall Arrester</image:title>
+      <image:caption>Automatic self-retracting lifeline.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/36-cargo-lashing-belt.jpg</image:loc>
+      <image:title>Cargo Lashing Belt</image:title>
+      <image:caption>Heavy-duty ratchet straps for cargo security.</image:caption>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.86</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/catalog/hand-protection</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Hand Protection Supplier in UAE | Logos International</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/14-dotted-gloves.jpg</image:loc>
+      <image:title>Dotted Gloves</image:title>
+      <image:caption>Grip-enhanced cotton gloves for general handling.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/15-nitrile-gloves.jpg</image:loc>
+      <image:title>Nitrile Gloves</image:title>
+      <image:caption>Heavy-duty nitrile assessment and industrial gloves.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/16-chemical-resistant-gloves.jpg</image:loc>
+      <image:title>Chemical Resistant Gloves</image:title>
+      <image:caption>Latex or PVC gloves for safe chemical handling.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/17-vinyl-gloves.jpg</image:loc>
+      <image:title>Vinyl Gloves</image:title>
+      <image:caption>Disposable vinyl gloves for hygiene, medical, and light-duty handling.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/18-latex-gloves.jpg</image:loc>
+      <image:title>Latex Gloves</image:title>
+      <image:caption>Flexible latex gloves for medical, cleaning, and general protection use.</image:caption>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.86</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/catalog/head-protection</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Head Protection Supplier in UAE | Logos International</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/30-metal-helmet.jpg</image:loc>
+      <image:title>Metal Helmet</image:title>
+      <image:caption>Metal safety helmets for industrial work.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/31-fiber-helmet.jpg</image:loc>
+      <image:title>Fiber Helmet</image:title>
+      <image:caption>Lightweight fiber-reinforced hard hats.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/32-helmet-with-ratchet-and-chin-strap.jpg</image:loc>
+      <image:title>Helmet with Ratchet &amp; Chin Strap</image:title>
+      <image:caption>Adjustable safety helmet with secure chin strap.</image:caption>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.86</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/catalog/marine-paints</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Marine Paints Supplier in UAE | Logos International</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/48-marine-anti-fouling-paint.jpg</image:loc>
+      <image:title>Marine Anti-Fouling Paint</image:title>
+      <image:caption>Anti-fouling paint for marine hull protection.</image:caption>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.86</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/catalog/medical-consumables</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Medical Consumables Supplier in UAE | Logos International</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/76-medical-consumables.jpg</image:loc>
+      <image:title>Medical Consumables</image:title>
+      <image:caption>General medical consumables supplied on request for hygiene, workplace, and facility needs.</image:caption>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.86</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/catalog/miscellaneous-products</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Miscellaneous Products Supplier in UAE | Logos International</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/51-oil-spill-kit.jpg</image:loc>
+      <image:title>Oil Spill Kit</image:title>
+      <image:caption>Complete chemical and oil spill response kit.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/52-industrial-traffic-cone.jpg</image:loc>
+      <image:title>Industrial Traffic Cone</image:title>
+      <image:caption>High-visibility reflective road cones.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/53-warning-tape.jpg</image:loc>
+      <image:title>Warning Tape</image:title>
+      <image:caption>Barrier tape for marking hazardous areas.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/54-safety-barrier.jpg</image:loc>
+      <image:title>Safety Barrier</image:title>
+      <image:caption>Expandable and fixed safety barriers.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/55-high-power-flashlight.jpg</image:loc>
+      <image:title>High-Power Flashlight</image:title>
+      <image:caption>Rechargeable industrial-grade torches.</image:caption>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.86</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/catalog/order-suppliers</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Order Suppliers Supplier in UAE | Logos International</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/47-custom-order-sourcing.jpg</image:loc>
+      <image:title>Custom Order Sourcing</image:title>
+      <image:caption>Product sourcing for items not listed in the main catalog.</image:caption>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.86</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/catalog/printing-services</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Printing Services Supplier in UAE | Logos International</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/38-dtf-printing.jpg</image:loc>
+      <image:title>DTF Printing</image:title>
+      <image:caption>Direct-to-film high resolution printing.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/39-embroidery-service.jpg</image:loc>
+      <image:title>Embroidery Service</image:title>
+      <image:caption>Professional machine embroidery for logos.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/40-sublimation-printing.jpg</image:loc>
+      <image:title>Sublimation Printing</image:title>
+      <image:caption>All-over print sublimation services.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/41-screen-printing.jpg</image:loc>
+      <image:title>Screen Printing</image:title>
+      <image:caption>Bulk screen printing for uniforms.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/42-offset-printing.jpg</image:loc>
+      <image:title>Offset Printing</image:title>
+      <image:caption>High-volume paper and stationery printing.</image:caption>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.86</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/catalog/respiratory-protection</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Respiratory Protection Supplier in UAE | Logos International</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/21-surgical-masks.jpg</image:loc>
+      <image:title>Surgical Masks</image:title>
+      <image:caption>Disposable surgical masks for workplace, hygiene, and medical consumable supply.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/22-n95-mask.jpg</image:loc>
+      <image:title>N95 Mask</image:title>
+      <image:caption>High-filtration particulate respirator masks.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/23-full-face-mask.jpg</image:loc>
+      <image:title>Full Face Mask</image:title>
+      <image:caption>Complete respiratory protection with full vision.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/24-half-face-mask.jpg</image:loc>
+      <image:title>Half Face Mask</image:title>
+      <image:caption>Twin filter half-face respirator.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/75-respiratory-mask.jpg</image:loc>
+      <image:title>Respiratory Mask</image:title>
+      <image:caption>General respiratory masks for dust, particles, and workplace protection.</image:caption>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.86</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/catalog/safety-footwear</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Safety Footwear Supplier in UAE | Logos International</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/09-non-metal-safety-shoes.jpg</image:loc>
+      <image:title>Non-Metal Safety Shoes</image:title>
+      <image:caption>Lightweight safety shoes with composite protection. 100% Metal-free construction.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/10-metal-safety-shoes.jpg</image:loc>
+      <image:title>Metal Safety Shoes</image:title>
+      <image:caption>Traditional steel-toe safety footwear for heavy construction.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/11-welder-boot.jpg</image:loc>
+      <image:title>Welder Boot</image:title>
+      <image:caption>High-heat resistant boots with quick-release velcro for welding.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/12-gumboot.jpg</image:loc>
+      <image:title>Gumboot</image:title>
+      <image:caption>Waterproof PVC boots with safety toe.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/13-executive-safety-shoes.jpg</image:loc>
+      <image:title>Executive Safety Shoes</image:title>
+      <image:caption>Formal safety shoes for site-to-office use.</image:caption>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.86</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/catalog/shields-and-trophies</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Shields and Trophies Supplier in UAE | Logos International</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/43-custom-shield-and-trophy.jpg</image:loc>
+      <image:title>Custom Shield &amp; Trophy</image:title>
+      <image:caption>Recognition awards and corporate trophies.</image:caption>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.86</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/catalog/signages</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Signages Supplier in UAE | Logos International</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/44-industrial-signage.jpg</image:loc>
+      <image:title>Industrial Signage</image:title>
+      <image:caption>Safety and directional signs for industrial use.</image:caption>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.86</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/catalog/stationeries</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Stationeries Supplier in UAE | Logos International</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/50-customized-stationery-set.jpg</image:loc>
+      <image:title>Customized Stationery Set</image:title>
+      <image:caption>Corporate notebooks, pens, and paper sets.</image:caption>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.86</priority>
+  </url>
+  <url>
+    <loc>https://logosae.com/catalog/steel-wire-ropes</loc>
+    <image:image>
+      <image:loc>https://logosae.com/og-image.svg</image:loc>
+      <image:title>Steel Wire Ropes Supplier in UAE | Logos International</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://logosae.com/catalog-images/49-kiswire-steel-wire-rope.jpg</image:loc>
+      <image:title>Kiswire Steel Wire Rope</image:title>
+      <image:caption>High-tensile Kiswire brand steel wire ropes.</image:caption>
+    </image:image>
+    <lastmod>2026-07-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.86</priority>
+  </url>
+</urlset>

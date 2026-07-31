@@ -1,0 +1,318 @@
+{
+  "name": "Logos International GEO Context",
+  "canonicalUrl": "https://logosae.com",
+  "generatedDate": "2026-07-31",
+  "geoTarget": {
+    "country": "United Arab Emirates",
+    "emirate": "Sharjah",
+    "coordinates": {
+      "latitude": 25.3463,
+      "longitude": 55.4209
+    },
+    "serviceAreas": [
+      "Sharjah",
+      "Dubai",
+      "Abu Dhabi",
+      "Ajman",
+      "Ras Al Khaimah",
+      "Fujairah",
+      "United Arab Emirates",
+      "Saudi Arabia",
+      "Qatar",
+      "Oman",
+      "Bahrain",
+      "Kuwait",
+      "GCC countries"
+    ],
+    "broaderRegion": "Gulf Cooperation Council"
+  },
+  "commercialIntentPages": [
+    {
+      "intent": "PPE supplier in Sharjah UAE",
+      "url": "https://logosae.com/catalog"
+    },
+    {
+      "intent": "Industrial supplies and hardware sourcing UAE",
+      "url": "https://logosae.com/catalog/building-materials-and-hardware"
+    },
+    {
+      "intent": "Uniforms and workwear supplier UAE",
+      "url": "https://logosae.com/catalog/clothing"
+    },
+    {
+      "intent": "Printing services and branded uniforms Sharjah",
+      "url": "https://logosae.com/catalog/printing-services"
+    },
+    {
+      "intent": "GCC sourcing inquiry contact",
+      "url": "https://logosae.com/contact"
+    },
+    {
+      "intent": "Sharjah PPE supplier",
+      "url": "https://logosae.com/coverage/sharjah"
+    },
+    {
+      "intent": "Dubai PPE supplier",
+      "url": "https://logosae.com/coverage/dubai"
+    },
+    {
+      "intent": "Abu Dhabi PPE supplier",
+      "url": "https://logosae.com/coverage/abu-dhabi"
+    },
+    {
+      "intent": "Ajman PPE supplier",
+      "url": "https://logosae.com/coverage/ajman"
+    },
+    {
+      "intent": "Ras Al Khaimah PPE supplier",
+      "url": "https://logosae.com/coverage/ras-al-khaimah"
+    },
+    {
+      "intent": "Fujairah PPE supplier",
+      "url": "https://logosae.com/coverage/fujairah"
+    },
+    {
+      "intent": "Saudi Arabia PPE sourcing",
+      "url": "https://logosae.com/coverage/saudi-arabia"
+    },
+    {
+      "intent": "Qatar PPE sourcing",
+      "url": "https://logosae.com/coverage/qatar"
+    },
+    {
+      "intent": "Oman PPE sourcing",
+      "url": "https://logosae.com/coverage/oman"
+    },
+    {
+      "intent": "Bahrain PPE sourcing",
+      "url": "https://logosae.com/coverage/bahrain"
+    },
+    {
+      "intent": "Kuwait PPE sourcing",
+      "url": "https://logosae.com/coverage/kuwait"
+    },
+    {
+      "intent": "construction PPE supplier UAE",
+      "url": "https://logosae.com/industries/construction"
+    },
+    {
+      "intent": "marine paints UAE",
+      "url": "https://logosae.com/industries/marine"
+    },
+    {
+      "intent": "facilities supplier UAE",
+      "url": "https://logosae.com/industries/facilities"
+    },
+    {
+      "intent": "medical consumables UAE",
+      "url": "https://logosae.com/industries/healthcare"
+    },
+    {
+      "intent": "hospitality uniforms UAE",
+      "url": "https://logosae.com/industries/hospitality"
+    },
+    {
+      "intent": "DTF printing UAE",
+      "url": "https://logosae.com/industries/printing-branding"
+    }
+  ],
+  "categoryCoverage": [
+    {
+      "category": "Bird & Cat Food",
+      "canonicalUrl": "https://logosae.com/catalog/bird-and-cat-food",
+      "products": [
+        "Dry Cat Food",
+        "Bird Feed & Accessories"
+      ]
+    },
+    {
+      "category": "Building Materials & Hardware",
+      "canonicalUrl": "https://logosae.com/catalog/building-materials-and-hardware",
+      "products": [
+        "Industrial Pipe Fittings",
+        "Building Materials",
+        "Hardware Supplies"
+      ]
+    },
+    {
+      "category": "Clothing",
+      "canonicalUrl": "https://logosae.com/catalog/clothing",
+      "products": [
+        "Custom T-Shirt",
+        "Industrial Cargo Pants",
+        "Cotton Coverall",
+        "Twill Cotton 2pc Uniform",
+        "High Visibility Reflective Vest",
+        "Disposable Coverall",
+        "Fire Retardant Coverall",
+        "Lab Coat"
+      ]
+    },
+    {
+      "category": "Eye & Ear Protection",
+      "canonicalUrl": "https://logosae.com/catalog/eye-and-ear-protection",
+      "products": [
+        "Face Shield",
+        "Safety Goggles",
+        "Safety Spectacles",
+        "Ear Muff",
+        "Ear Plug"
+      ]
+    },
+    {
+      "category": "Fall Protection",
+      "canonicalUrl": "https://logosae.com/catalog/fall-protection",
+      "products": [
+        "Full Body Harness",
+        "Lanyard",
+        "Retractable Fall Arrester",
+        "Cargo Lashing Belt"
+      ]
+    },
+    {
+      "category": "Hand Protection",
+      "canonicalUrl": "https://logosae.com/catalog/hand-protection",
+      "products": [
+        "Dotted Gloves",
+        "Nitrile Gloves",
+        "Chemical Resistant Gloves",
+        "Vinyl Gloves",
+        "Latex Gloves",
+        "Leather Gloves",
+        "Welding Gloves"
+      ]
+    },
+    {
+      "category": "Head Protection",
+      "canonicalUrl": "https://logosae.com/catalog/head-protection",
+      "products": [
+        "Metal Helmet",
+        "Fiber Helmet",
+        "Helmet with Ratchet & Chin Strap"
+      ]
+    },
+    {
+      "category": "Marine Paints",
+      "canonicalUrl": "https://logosae.com/catalog/marine-paints",
+      "products": [
+        "Marine Anti-Fouling Paint"
+      ]
+    },
+    {
+      "category": "Medical Consumables",
+      "canonicalUrl": "https://logosae.com/catalog/medical-consumables",
+      "products": [
+        "Medical Consumables"
+      ]
+    },
+    {
+      "category": "Miscellaneous Products",
+      "canonicalUrl": "https://logosae.com/catalog/miscellaneous-products",
+      "products": [
+        "Oil Spill Kit",
+        "Industrial Traffic Cone",
+        "Warning Tape",
+        "Safety Barrier",
+        "High-Power Flashlight",
+        "PVC Bucket / Plastic Drum",
+        "PVC Apron",
+        "Garbage Bags",
+        "Bio-degradable Garbage Bags",
+        "Trolley Bag",
+        "Industrial Tool Box",
+        "Aluminum Ladder",
+        "Insulated Water Cooler",
+        "First Aid Box",
+        "Disposable Shoe Covers",
+        "Hairnet Bulk Pack",
+        "Fire Resistant Cabinet",
+        "Nylon Rope",
+        "Food Grade Silicone",
+        "Cleaning Accessories",
+        "Hygiene Products",
+        "Industrial Stretch Film",
+        "Blower Fan with Duct",
+        "Winter Jacket",
+        "ANZA Refills & Handles"
+      ]
+    },
+    {
+      "category": "Order Suppliers",
+      "canonicalUrl": "https://logosae.com/catalog/order-suppliers",
+      "products": [
+        "Custom Order Sourcing"
+      ]
+    },
+    {
+      "category": "Printing Services",
+      "canonicalUrl": "https://logosae.com/catalog/printing-services",
+      "products": [
+        "DTF Printing",
+        "Embroidery Service",
+        "Sublimation Printing",
+        "Screen Printing",
+        "Offset Printing"
+      ]
+    },
+    {
+      "category": "Respiratory Protection",
+      "canonicalUrl": "https://logosae.com/catalog/respiratory-protection",
+      "products": [
+        "Surgical Masks",
+        "N95 Mask",
+        "Full Face Mask",
+        "Half Face Mask",
+        "Respiratory Mask"
+      ]
+    },
+    {
+      "category": "Safety Footwear",
+      "canonicalUrl": "https://logosae.com/catalog/safety-footwear",
+      "products": [
+        "Non-Metal Safety Shoes",
+        "Metal Safety Shoes",
+        "Welder Boot",
+        "Gumboot",
+        "Executive Safety Shoes"
+      ]
+    },
+    {
+      "category": "Shields and Trophies",
+      "canonicalUrl": "https://logosae.com/catalog/shields-and-trophies",
+      "products": [
+        "Custom Shield & Trophy"
+      ]
+    },
+    {
+      "category": "Signages",
+      "canonicalUrl": "https://logosae.com/catalog/signages",
+      "products": [
+        "Industrial Signage"
+      ]
+    },
+    {
+      "category": "Stationeries",
+      "canonicalUrl": "https://logosae.com/catalog/stationeries",
+      "products": [
+        "Customized Stationery Set"
+      ]
+    },
+    {
+      "category": "Steel Wire Ropes",
+      "canonicalUrl": "https://logosae.com/catalog/steel-wire-ropes",
+      "products": [
+        "Kiswire Steel Wire Rope"
+      ]
+    }
+  ],
+  "quoteProcess": {
+    "requiredDetails": [
+      "product name or category",
+      "quantity",
+      "specification",
+      "delivery location",
+      "timeline"
+    ],
+    "contactEmail": "info@logos.ae"
+  }
+}

@@ -1,0 +1,43 @@
+# Logos International
+
+> Sharjah, United Arab Emirates supply company for PPE, health and safety requisites, medical consumables, hardware, uniforms, printing services, industrial products and miscellaneous products across the UAE and GCC countries.
+
+## Canonical Site
+
+- Homepage: https://logosae.com/
+- Catalog: https://logosae.com/catalog
+- Services: https://logosae.com/services
+- Coverage: https://logosae.com/coverage
+- Industries: https://logosae.com/industries
+- Contact: https://logosae.com/contact
+- Full AI context: https://logosae.com/llms-full.txt
+- Entity graph: https://logosae.com/entity.jsonld
+- Catalog data: https://logosae.com/catalog-data.json
+- Answer engine data: https://logosae.com/answer-engine.json
+- GEO context: https://logosae.com/geo-context.json
+
+## Entity Facts
+
+- Name: Logos International
+- Business type: Multi-category sourcing and supply company
+- Location: Sharjah, United Arab Emirates
+- Region served: Sharjah, Dubai, Abu Dhabi, Ajman, Ras Al Khaimah, Fujairah, UAE and GCC countries
+- Contact email: info@logos.ae
+- Regional SEO pages: https://logosae.com/coverage/sharjah, https://logosae.com/coverage/dubai, https://logosae.com/coverage/abu-dhabi, https://logosae.com/coverage/ajman, https://logosae.com/coverage/ras-al-khaimah, https://logosae.com/coverage/fujairah, https://logosae.com/coverage/saudi-arabia, https://logosae.com/coverage/qatar, https://logosae.com/coverage/oman, https://logosae.com/coverage/bahrain, https://logosae.com/coverage/kuwait
+- Industry SEO pages: https://logosae.com/industries/construction, https://logosae.com/industries/marine, https://logosae.com/industries/facilities, https://logosae.com/industries/healthcare, https://logosae.com/industries/hospitality, https://logosae.com/industries/printing-branding
+
+## Product Scope
+
+- Clothing: t-shirts, cargo pants, coveralls, 2pc uniforms, reflective vests, disposable coveralls, fire retardant coveralls and lab coats
+- Safety footwear: non-metal safety shoes, metal safety shoes, welder boots, gumboots and executive safety shoes
+- Hand protection: dotted, nitrile, chemical-resistant, vinyl, latex, leather and welding gloves
+- Respiratory protection: surgical masks, N95 masks, full face masks, half face masks and respiratory masks
+- Eye, ear and head protection: face shields, safety goggles, safety spectacles, ear muffs, ear plugs and helmets
+- Fall protection: full body harnesses, lanyards, retractable fall arresters and cargo lashing belts
+- Industrial supply: building materials, hardware, marine paints, Kiswire steel wire ropes and site consumables
+- Printing and branding: DTF, embroidery, sublimation, screen printing, offset printing, signages, shields and trophies
+- Custom orders: medical consumables, stationeries, bird and cat food, custom order sourcing and miscellaneous products
+
+## Quote Guidance
+
+For quotations, customers should send the product name, quantity, specification, delivery location and timeline to info@logos.ae or through the contact page.

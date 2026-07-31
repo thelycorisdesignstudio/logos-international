@@ -1,0 +1,23 @@
+{
+  "name": "Logos International",
+  "short_name": "Logos International",
+  "description": "Sharjah sourcing and supply company for PPE, industrial supplies, uniforms, printing and custom procurement.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#101418",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo-mark.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

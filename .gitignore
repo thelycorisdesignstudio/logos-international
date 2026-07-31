@@ -4,5 +4,13 @@ dist/
 coverage/
 .DS_Store
 *.log
+*.out
+*.err
+test-results/
+playwright-report/
 .env*
 !.env.example
+.vercel
+output/
+tmp/
+CODEX_MEMORY.md

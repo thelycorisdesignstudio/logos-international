@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 160" role="img" aria-label="Logos International">
+  <rect x="16" y="16" width="128" height="128" rx="24" fill="#111111"/>
+  <path d="M50 46h16v56h40v14H50V46Z" fill="#ffffff"/>
+  <path d="M92 44h18v72H92V44Z" fill="#b34224"/>
+  <path d="M66 66h28v12H66V66Z" fill="#111111"/>
+  <path d="M108 68l14 8-14 8V68Z" fill="#ffffff"/>
+  <path d="M66 96h27v10H66V96Z" fill="#111111"/>
+  <text x="176" y="76" font-family="DM Sans, Manrope, Arial, sans-serif" font-size="42" font-weight="700" fill="#111111">Logos International</text>
+  <text x="178" y="112" font-family="Manrope, DM Sans, Arial, sans-serif" font-size="19" font-weight="500" fill="#6f716d">Sourcing and supply company, Sharjah UAE</text>
+  <path d="M178 130h360" stroke="#deded8" stroke-width="2"/>
+  <path d="M178 130h116" stroke="#b34224" stroke-width="2"/>
+</svg>
