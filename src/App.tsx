@@ -2188,25 +2188,6 @@ const EditorialHubPage = ({
 };
 
 const ContactPage = () => {
-  const [status, setStatus] = useState('');
-
-  const handleSubmit = (event: React.FormEvent<HTMLFormElement>) => {
-    event.preventDefault();
-    const data = new FormData(event.currentTarget);
-    const name = cleanMailField(data.get('name') || '');
-    const company = cleanMailField(data.get('company') || '');
-    const email = cleanMailField(data.get('email') || '');
-    const productArea = cleanMailField(data.get('productArea') || '');
-    const message = cleanMailField(data.get('message') || '');
-
-    window.location.href = buildMailto(
-      `Website inquiry from ${name}`,
-      `Hello Logos International,\n\nName: ${name}\nCompany: ${company}\nEmail: ${email}\nProduct area: ${productArea}\n\nRequirement:\n${message}`,
-    );
-    setStatus('Your email app is opening with the request details.');
-    event.currentTarget.reset();
-  };
-
   return (
     <div>
       <section className="page-hero">
@@ -2228,7 +2209,7 @@ const ContactPage = () => {
               {CONTACT_ADDRESS}
             </span>
             <span><Mail size={18} />{CONTACT_PERSON} · {CONTACT_ROLE}</span>
-            <span><Globe2 size={18} />{CONTACT_PHONE}</span>
+            <a href={`tel:${CONTACT_PHONE.replace(/\s/g, '')}`}><Globe2 size={18} />{CONTACT_PHONE}</a>
             <span>
               <Globe2 size={18} />
               UAE and GCC inquiries
@@ -2237,42 +2218,21 @@ const ContactPage = () => {
         </div>
       </section>
 
-      <section className="container contact-grid">
-        <form className="contact-form" onSubmit={handleSubmit}>
-          <label>
-            Name
-            <input name="name" type="text" required autoComplete="name" />
-          </label>
-          <label>
-            Company
-            <input name="company" type="text" autoComplete="organization" />
-          </label>
-          <label>
-            Email
-            <input name="email" type="email" required autoComplete="email" />
-          </label>
-          <label>
-            Product area
-            <select name="productArea" defaultValue="">
-              <option value="">Select a product area</option>
-              {productGroups.map((group) => (
-                <option key={group.category} value={group.category}>
-                  {group.name}
-                </option>
-              ))}
-              <option value="Custom order sourcing">Custom order sourcing</option>
-            </select>
-          </label>
-          <label>
-            Requirement
-            <textarea name="message" rows={7} required placeholder="Product, quantity, specification, delivery location and timeline" />
-          </label>
-          <button type="submit" className="btn btn-dark">
-            Open email draft
-            <Mail size={16} />
-          </button>
-          {status && <p className="form-status">{status}</p>}
-        </form>
+      <section className="container contact-grid contact-direct-grid">
+        <div className="direct-contact-card">
+          <p className="eyebrow">Direct enquiry</p>
+          <h2>Send your requirement to the supply desk.</h2>
+          <p>Include the product, quantity, specification, delivery location and required date in your email. Simon Philip will review the request and reply directly.</p>
+          <div className="direct-contact-actions">
+            <a className="btn btn-dark" href={buildMailto('Sourcing inquiry', 'Hello Logos International,\n\nI would like to discuss a sourcing requirement.\n\nProduct / quantity:\nSpecification:\nDelivery location:\nRequired date:')}>
+              Email the supply desk <Mail size={16} />
+            </a>
+            <a className="btn btn-light" href={`tel:${CONTACT_PHONE.replace(/\s/g, '')}`}>
+              Call {CONTACT_PHONE} <Globe2 size={16} />
+            </a>
+          </div>
+          <div className="direct-contact-person"><strong>{CONTACT_PERSON}</strong><span>{CONTACT_ROLE}</span><span>{CONTACT_EMAIL}</span></div>
+        </div>
         <div className="map-panel">
           <div>
             <Globe2 size={26} />

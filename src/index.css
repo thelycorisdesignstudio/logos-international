@@ -1537,6 +1537,24 @@
     gap: 16px;
   }
 
+  .direct-contact-card {
+    padding: clamp(28px, 5vw, 56px);
+    border: 1px solid var(--line);
+    background: linear-gradient(135deg, var(--white), var(--paper-deep));
+    display: grid;
+    align-content: start;
+    gap: 16px;
+  }
+
+  .direct-contact-card h2 { max-width: 15ch; font-size: clamp(30px, 4vw, 48px); }
+  .direct-contact-card > p:not(.eyebrow) { max-width: 52ch; }
+  .direct-contact-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 8px; }
+  .direct-contact-person { display: grid; gap: 3px; padding-top: 18px; border-top: 1px solid var(--line); color: var(--muted); }
+  .direct-contact-person strong { color: var(--ink); font-size: 18px; }
+  .direct-contact-person span { font-size: 14px; }
+
+  .contact-panel a[href^="tel:"] { color: inherit; text-decoration: none; }
+
   .contact-form label {
     display: grid;
     gap: 8px;

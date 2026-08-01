@@ -411,27 +411,9 @@ test('mobile navigation, services, contact validation and legal pages work', asy
   await expect(page).toHaveURL(`${baseUrl}/contact`);
 
   await page.goto(`${baseUrl}/contact`);
-  const form = page.locator('.contact-form');
-  await form.getByRole('button', { name: /open email draft/i }).click();
-  expect(await form.locator(':invalid').count()).toBeGreaterThanOrEqual(3);
-  await expect(form.locator('.form-status')).toHaveCount(0);
-
-  await page.getByLabel('Name').fill('QA Buyer');
-  await page.getByLabel('Company').fill('QA Company');
-  await page.getByLabel('Email').fill('not-an-email');
-  await page.getByLabel('Requirement').fill('Safety shoes, 25 pairs, Sharjah, next week.');
-  await form.getByRole('button', { name: /open email draft/i }).click();
-  await expect(page.getByLabel('Email')).toHaveAttribute('type', 'email');
-  expect(await page.getByLabel('Email').evaluate((input) => input.validity.valid)).toBe(false);
-
-  await page.getByLabel('Email').fill('buyer@example.com');
-  const productOptions = await page.getByLabel('Product area').locator('option').count();
-  expect(productOptions).toBe(20);
-  await page.getByLabel('Product area').selectOption('Safety Footwear');
-  await form.getByRole('button', { name: /open email draft/i }).click({ noWaitAfter: true });
-  await expect(form.locator('.form-status')).toContainText('Your email app is opening with the request details');
-  await expect(page.getByLabel('Name')).toHaveValue('');
-  await expect(page.getByLabel('Email')).toHaveValue('');
+  await expect(page.locator('.contact-form')).toHaveCount(0);
+  await expect(page.getByRole('link', { name: /email the supply desk/i })).toBeVisible();
+  await expect(page.getByRole('link', { name: /call \+971 55 832 2030/i })).toBeVisible();
 
   const directEmailHref = await page.locator('.contact-panel a[href^="mailto:"]').getAttribute('href');
   expect(directEmailHref).toMatch(/^mailto:logosfze@gmail\.com\?/);
