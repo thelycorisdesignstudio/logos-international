@@ -6,7 +6,7 @@ const outputDir = path.resolve('public/catalog-images');
 const manifestPath = path.join(outputDir, 'manifest.json');
 const attributionPath = path.join(outputDir, 'attribution.json');
 const productImagesTsPath = path.resolve('src/data/productImages.ts');
-const sourceOverrideRevision = '2026-08-01-product-photo-audit-v35';
+const sourceOverrideRevision = '2026-08-01-product-photo-audit-v36';
 const refreshImageSelection = new Set();
 
 const userAgent = 'LogosInternationalImageBuilder/1.0 (https://logosae.com)';
@@ -1259,13 +1259,12 @@ const manualImageOverrides = {
   },
   'Building Materials': {
     source: 'Wikimedia Commons',
-    title: 'Pallets and building material bags',
-    downloadUrl:
-      'https://upload.wikimedia.org/wikipedia/commons/d/dd/Pallets_and_building_material_bags_-_geograph.org.uk_-_4595181.jpg',
-    sourceUrl: commonsFilePage('Pallets and building material bags - geograph.org.uk - 4595181.jpg'),
+    title: 'Birch plywood',
+    downloadUrl: 'https://upload.wikimedia.org/wikipedia/commons/7/73/Birch_plywood.jpg',
+    sourceUrl: commonsFilePage('Birch plywood.jpg'),
     creator: 'Wikimedia Commons contributor',
-    license: 'Wikimedia Commons license',
-    presentation: 'contain',
+    license: 'CC BY-SA 3.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by-sa/3.0/',
   },
 };
 

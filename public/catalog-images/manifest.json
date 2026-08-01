@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-01T16:02:38.809Z",
-  "sourceOverrideRevision": "2026-08-01-product-photo-audit-v35",
+  "generatedAt": "2026-08-01T16:32:12.681Z",
+  "sourceOverrideRevision": "2026-08-01-product-photo-audit-v36",
   "sourcePolicy": "Catalog media combines authorized manufacturer or dealer product images with commercially usable public-source photos, with source and license metadata retained for each item.",
   "totalProducts": 79,
   "products": [
@@ -1304,16 +1304,15 @@
       "path": "catalog-images/77-building-materials.jpg",
       "alt": "Building Materials representative catalog image for Logos International",
       "source": "Wikimedia Commons",
-      "sourceTitle": "Pallets and building material bags",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pallets%20and%20building%20material%20bags%20-%20geograph.org.uk%20-%204595181.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Pallets_and_building_material_bags_-_geograph.org.uk_-_4595181.jpg",
+      "sourceTitle": "Birch plywood",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Birch%20plywood.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Birch_plywood.jpg",
       "creator": "Wikimedia Commons contributor",
-      "license": "Wikimedia Commons license",
-      "licenseUrl": "",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
       "query": "representative catalog product photo",
       "matchScore": 999,
-      "matchConfidence": "high",
-      "presentation": "contain"
+      "matchConfidence": "high"
     },
     {
       "id": 78,
