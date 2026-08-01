@@ -121,7 +121,7 @@
           "id": 7,
           "name": "Fire Retardant Coverall",
           "description": "Certified FR coveralls for hazardous environments.",
-          "image": "https://logosae.com/catalog-images/07-fire-retardant-coverall.jpg"
+          "image": "https://logosae.com/catalog-images/07-fire-retardant-coverall.png"
         },
         {
           "id": 8,
@@ -142,7 +142,7 @@
           "id": 25,
           "name": "Face Shield",
           "description": "Full-face splash and impact protection.",
-          "image": "https://logosae.com/catalog-images/25-face-shield.jpg"
+          "image": "https://logosae.com/catalog-images/25-face-shield.png"
         },
         {
           "id": 26,
@@ -166,7 +166,7 @@
           "id": 29,
           "name": "Ear Plug",
           "description": "Soft foam disposable ear plugs.",
-          "image": "https://logosae.com/catalog-images/29-ear-plug.jpg"
+          "image": "https://logosae.com/catalog-images/29-ear-plug.png"
         }
       ]
     },
@@ -265,13 +265,13 @@
           "id": 30,
           "name": "Metal Helmet",
           "description": "Metal safety helmets for industrial work.",
-          "image": "https://logosae.com/catalog-images/30-metal-helmet.jpg"
+          "image": "https://logosae.com/catalog-images/30-metal-helmet.png"
         },
         {
           "id": 31,
           "name": "Fiber Helmet",
           "description": "Lightweight fiber-reinforced hard hats.",
-          "image": "https://logosae.com/catalog-images/31-fiber-helmet.jpg"
+          "image": "https://logosae.com/catalog-images/31-fiber-helmet.png"
         },
         {
           "id": 32,
@@ -592,7 +592,7 @@
           "id": 12,
           "name": "Gumboot",
           "description": "Waterproof PVC boots with safety toe.",
-          "image": "https://logosae.com/catalog-images/12-gumboot.jpg"
+          "image": "https://logosae.com/catalog-images/12-gumboot.png"
         },
         {
           "id": 13,

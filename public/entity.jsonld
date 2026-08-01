@@ -540,7 +540,7 @@
               "name": "Fire Retardant Coverall",
               "description": "Certified FR coveralls for hazardous environments.",
               "category": "Clothing",
-              "image": "https://logosae.com/catalog-images/07-fire-retardant-coverall.jpg",
+              "image": "https://logosae.com/catalog-images/07-fire-retardant-coverall.png",
               "url": "https://logosae.com/catalog/clothing",
               "brand": {
                 "@id": "https://logosae.com/#organization"
@@ -598,7 +598,7 @@
               "name": "Face Shield",
               "description": "Full-face splash and impact protection.",
               "category": "Eye & Ear Protection",
-              "image": "https://logosae.com/catalog-images/25-face-shield.jpg",
+              "image": "https://logosae.com/catalog-images/25-face-shield.png",
               "url": "https://logosae.com/catalog/eye-and-ear-protection",
               "brand": {
                 "@id": "https://logosae.com/#organization"
@@ -694,7 +694,7 @@
               "name": "Ear Plug",
               "description": "Soft foam disposable ear plugs.",
               "category": "Eye & Ear Protection",
-              "image": "https://logosae.com/catalog-images/29-ear-plug.jpg",
+              "image": "https://logosae.com/catalog-images/29-ear-plug.png",
               "url": "https://logosae.com/catalog/eye-and-ear-protection",
               "brand": {
                 "@id": "https://logosae.com/#organization"
@@ -1012,7 +1012,7 @@
               "name": "Metal Helmet",
               "description": "Metal safety helmets for industrial work.",
               "category": "Head Protection",
-              "image": "https://logosae.com/catalog-images/30-metal-helmet.jpg",
+              "image": "https://logosae.com/catalog-images/30-metal-helmet.png",
               "url": "https://logosae.com/catalog/head-protection",
               "brand": {
                 "@id": "https://logosae.com/#organization"
@@ -1036,7 +1036,7 @@
               "name": "Fiber Helmet",
               "description": "Lightweight fiber-reinforced hard hats.",
               "category": "Head Protection",
-              "image": "https://logosae.com/catalog-images/31-fiber-helmet.jpg",
+              "image": "https://logosae.com/catalog-images/31-fiber-helmet.png",
               "url": "https://logosae.com/catalog/head-protection",
               "brand": {
                 "@id": "https://logosae.com/#organization"
@@ -2138,7 +2138,7 @@
               "name": "Gumboot",
               "description": "Waterproof PVC boots with safety toe.",
               "category": "Safety Footwear",
-              "image": "https://logosae.com/catalog-images/12-gumboot.jpg",
+              "image": "https://logosae.com/catalog-images/12-gumboot.png",
               "url": "https://logosae.com/catalog/safety-footwear",
               "brand": {
                 "@id": "https://logosae.com/#organization"

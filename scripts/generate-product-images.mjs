@@ -6,28 +6,18 @@ const outputDir = path.resolve('public/catalog-images');
 const manifestPath = path.join(outputDir, 'manifest.json');
 const attributionPath = path.join(outputDir, 'attribution.json');
 const productImagesTsPath = path.resolve('src/data/productImages.ts');
-const sourceOverrideRevision = '2026-08-01-product-photo-audit-v21';
+const sourceOverrideRevision = '2026-08-01-product-photo-audit-v26';
 const refreshImageSelection = new Set([
   'Twill Cotton 2pc Uniform',
-  'Fire Retardant Coverall',
-  'Nitrile Gloves',
   'Ear Muff',
-  'Ear Plug',
   'Safety Goggles',
   'Safety Barrier',
   'Custom Order Sourcing',
-  'Fiber Helmet',
-  'Helmet with Ratchet & Chin Strap',
   'Bird Feed & Accessories',
-  'Garbage Bags',
   'Bio-degradable Garbage Bags',
-  'Non-Metal Safety Shoes',
-  'Metal Safety Shoes',
-  'Welder Boot',
-  'Gumboot',
-  'Executive Safety Shoes',
   'Chemical Resistant Gloves',
   'Vinyl Gloves',
+  'Custom Shield & Trophy',
 ]);
 
 const userAgent = 'LogosInternationalImageBuilder/1.0 (https://logosae.com)';
@@ -228,8 +218,44 @@ const manualImageOverrides = {
   },
   'Metal Helmet': {
     source: 'Pitbull Safety',
-    title: 'PITBULL ABS VISOR helmet product banner',
-    downloadUrl: 'https://pitbullsafety.com/wp-content/uploads/2023/06/PITBULL-ABS-VISOR-helmet-web-Banner-0x0.jpg',
+    title: 'Pitbull safety helmet product image',
+    downloadUrl: 'https://pitbullsafety.com/wp-content/uploads/2023/05/helmet.png',
+    sourceUrl: 'https://pitbullsafety.com/',
+    creator: 'Pitbull Safety Products',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://pitbullsafety.com/',
+  },
+  'Fiber Helmet': {
+    source: 'Pitbull Safety',
+    title: 'Pitbull safety helmet product image',
+    downloadUrl: 'https://pitbullsafety.com/wp-content/uploads/2023/05/helmet.png',
+    sourceUrl: 'https://pitbullsafety.com/',
+    creator: 'Pitbull Safety Products',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://pitbullsafety.com/',
+  },
+  'Helmet with Ratchet & Chin Strap': {
+    source: 'Pitbull Safety',
+    title: 'Pitbull visor ABS helmet with adjustable chin strap',
+    downloadUrl: 'https://pitbullsafety.com/wp-content/uploads/2023/05/PITBULL-VISOR-ABS-HELMET.jpg',
+    sourceUrl: 'https://pitbullsafety.com/',
+    creator: 'Pitbull Safety Products',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://pitbullsafety.com/',
+  },
+  'Fire Retardant Coverall': {
+    source: 'Pitbull Safety',
+    title: 'Pitbull flame retardant coverall product image',
+    downloadUrl: 'https://pitbullsafety.com/wp-content/uploads/2019/09/Fire-Resistant-2-600x600-1.png',
+    sourceUrl: 'https://pitbullsafety.com/',
+    creator: 'Pitbull Safety Products',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://pitbullsafety.com/',
+  },
+  'Full Body Harness': {
+    source: 'Pitbull Safety',
+    title: 'Pitbull full body safety harness',
+    downloadUrl: 'https://pitbullsafety.com/wp-content/uploads/2024/01/PITBULL-HARNESS-1.jpg',
     sourceUrl: 'https://pitbullsafety.com/',
     creator: 'Pitbull Safety Products',
     license: 'Authorized dealer product imagery',
@@ -588,6 +614,104 @@ const manualImageOverrides = {
     creator: 'Pavel Danilyuk',
     license: 'Pexels License',
     licenseUrl: 'https://www.pexels.com/license/',
+  },
+  'Non-Metal Safety Shoes': {
+    source: 'Pitbull Safety',
+    title: 'Pitbull PB-500 safety footwear',
+    downloadUrl: 'https://pitbullsafety.com/wp-content/uploads/2026/04/14-PB-500.jpg',
+    sourceUrl: 'https://pitbullsafety.com/',
+    creator: 'Pitbull Safety Products',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://pitbullsafety.com/',
+  },
+  'Welder Boot': {
+    source: 'Pitbull Safety',
+    title: 'Pitbull safety footwear',
+    downloadUrl: 'https://pitbullsafety.com/wp-content/uploads/2026/04/14-PB-500.jpg',
+    sourceUrl: 'https://pitbullsafety.com/',
+    creator: 'Pitbull Safety Products',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://pitbullsafety.com/',
+  },
+  Gumboot: {
+    source: 'Nova Green',
+    title: 'Nova Green Brexley gumboot product image',
+    downloadUrl: 'https://novagreen.ae/wp-content/uploads/2025/07/GUMBOOT-BREXLEY-3-1.png',
+    sourceUrl: 'https://novagreen.ae/',
+    creator: 'Nova Green',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://novagreen.ae/',
+  },
+  'Nitrile Gloves': {
+    source: 'Pitbull Safety',
+    title: 'Pitbull nitrile glove product pack',
+    downloadUrl: 'https://pitbullsafety.com/wp-content/uploads/2020/10/NITRILE-GLOVES-front-back-view.jpg',
+    sourceUrl: 'https://pitbullsafety.com/',
+    creator: 'Pitbull Safety Products',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://pitbullsafety.com/',
+  },
+  'Fire Retardant Coverall': {
+    source: 'Pitbull Safety',
+    title: 'Pitbull flame retardant coverall product image',
+    downloadUrl: 'https://pitbullsafety.com/wp-content/uploads/2019/09/Fire-Resistant-2-600x600-1.png',
+    sourceUrl: 'https://pitbullsafety.com/',
+    creator: 'Pitbull Safety Products',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://pitbullsafety.com/',
+  },
+  'Full Body Harness': {
+    source: 'Pitbull Safety',
+    title: 'Pitbull full body safety harness',
+    downloadUrl: 'https://pitbullsafety.com/wp-content/uploads/2024/01/PITBULL-HARNESS-1.jpg',
+    sourceUrl: 'https://pitbullsafety.com/',
+    creator: 'Pitbull Safety Products',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://pitbullsafety.com/',
+  },
+  'Fiber Helmet': {
+    source: 'Pitbull Safety',
+    title: 'Pitbull safety helmet product image',
+    downloadUrl: 'https://pitbullsafety.com/wp-content/uploads/2023/05/helmet.png',
+    sourceUrl: 'https://pitbullsafety.com/',
+    creator: 'Pitbull Safety Products',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://pitbullsafety.com/',
+  },
+  'Helmet with Ratchet & Chin Strap': {
+    source: 'Pitbull Safety',
+    title: 'Pitbull visor ABS helmet with adjustable chin strap',
+    downloadUrl: 'https://pitbullsafety.com/wp-content/uploads/2023/05/PITBULL-VISOR-ABS-HELMET.jpg',
+    sourceUrl: 'https://pitbullsafety.com/',
+    creator: 'Pitbull Safety Products',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://pitbullsafety.com/',
+  },
+  'Garbage Bags': {
+    title: 'Waste Bag made of PLA-Blend Bio-Flex.jpg',
+    downloadUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Waste_Bag_made_of_PLA-Blend_Bio-Flex.jpg/960px-Waste_Bag_made_of_PLA-Blend_Bio-Flex.jpg',
+    sourceUrl: commonsFilePage('Waste Bag made of PLA-Blend Bio-Flex.jpg'),
+    creator: 'F. Kesselring, FKuR Willich',
+    license: 'CC BY-SA 3.0 DE',
+    licenseUrl: 'https://creativecommons.org/licenses/by-sa/3.0/de/deed.en',
+  },
+  'Ear Plug': {
+    source: 'Pitbull Safety',
+    title: 'Pitbull corded ear plug product image',
+    downloadUrl: 'https://pitbullsafety.com/wp-content/uploads/2019/09/Ear-Plug-FEP-506-with-blue-cord-1200x1200-1.png',
+    sourceUrl: 'https://pitbullsafety.com/',
+    creator: 'Pitbull Safety Products',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://pitbullsafety.com/',
+  },
+  'Face Shield': {
+    source: 'Pitbull Safety',
+    title: 'Pitbull protective face shield product image',
+    downloadUrl: 'https://pitbullsafety.com/wp-content/uploads/2020/10/FSL-B.png',
+    sourceUrl: 'https://pitbullsafety.com/',
+    creator: 'Pitbull Safety Products',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://pitbullsafety.com/',
   },
 };
 
@@ -1068,7 +1192,7 @@ const writeManifestFiles = async (products, entries) => {
     generatedAt,
     sourceOverrideRevision,
     sourcePolicy:
-      'Real internet-sourced catalog photos downloaded from Wikimedia Commons and Openverse search results, with noncommercial licenses filtered out where exposed by the source API.',
+      'Catalog media combines authorized manufacturer or dealer product images with commercially usable public-source photos, with source and license metadata retained for each item.',
     totalProducts: products.length,
     products: orderedEntries,
   };
@@ -1122,6 +1246,7 @@ for (const product of products) {
   const matchesCurrentSource =
     !currentManualOverride ||
     (existingEntry?.sourceUrl === currentManualOverride.sourceUrl &&
+      existingEntry?.downloadUrl === currentManualOverride.downloadUrl &&
       (!currentManualOverride.source || existingEntry?.source === currentManualOverride.source));
   const shouldReuseExisting =
     existingEntry &&
