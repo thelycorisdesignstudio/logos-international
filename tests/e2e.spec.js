@@ -228,7 +228,7 @@ test('desktop navigation, footer, home actions, answers and all category cards w
 
   await page.goto(`${baseUrl}/contact`);
   const emailHref = await page.locator('.site-footer a[href^="mailto:"]').getAttribute('href');
-  expect(emailHref).toMatch(/^mailto:info@logos\.ae\?/);
+  expect(emailHref).toMatch(/^mailto:logosfze@gmail\.com\?/);
   expect(issues).toEqual([]);
 });
 
@@ -296,7 +296,7 @@ test('catalog search, every filter, sorting, all images, modal states and quote 
   await expect(page.getByRole('button', { name: 'Selected', exact: true }).first()).toBeVisible();
   const quoteLink = page.getByRole('link', { name: /send quote request \(1\)/i });
   await expect(quoteLink).toBeVisible();
-  expect(await quoteLink.getAttribute('href')).toMatch(/^mailto:info@logos\.ae\?.*Quote%20request/i);
+  expect(await quoteLink.getAttribute('href')).toMatch(/^mailto:logosfze@gmail\.com\?.*Quote%20request/i);
   await page.getByRole('button', { name: 'Selected', exact: true }).first().click();
   await expect(quoteLink).toHaveCount(0);
 
@@ -434,7 +434,7 @@ test('mobile navigation, services, contact validation and legal pages work', asy
   await expect(page.getByLabel('Email')).toHaveValue('');
 
   const directEmailHref = await page.locator('.contact-panel a[href^="mailto:"]').getAttribute('href');
-  expect(directEmailHref).toMatch(/^mailto:info@logos\.ae\?/);
+  expect(directEmailHref).toMatch(/^mailto:logosfze@gmail\.com\?/);
 
   await page.locator('.site-footer').getByRole('button', { name: 'Privacy', exact: true }).click();
   await expect(page.getByRole('heading', { name: 'Privacy Policy' })).toBeVisible();

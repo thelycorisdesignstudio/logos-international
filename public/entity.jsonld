@@ -12,7 +12,7 @@
       "url": "https://logosae.com/",
       "logo": "https://logosae.com/logo-official.png",
       "image": "https://logosae.com/logo-official.png",
-      "email": "info@logos.ae",
+      "email": "logosfze@gmail.com",
       "description": "Sharjah, UAE multi-category sourcing and supply company providing PPE, health and safety requisites, medical consumables, hardware, uniforms, printing services and custom-order products across the UAE and GCC countries.",
       "address": {
         "@type": "PostalAddress",
@@ -73,7 +73,7 @@
       ],
       "contactPoint": {
         "@type": "ContactPoint",
-        "email": "info@logos.ae",
+        "email": "logosfze@gmail.com",
         "contactType": "sales",
         "areaServed": [
           "AE",

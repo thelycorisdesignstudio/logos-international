@@ -2,7 +2,7 @@ import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 
 const siteUrl = 'https://logosae.com';
-const contactEmail = 'info@logos.ae';
+const contactEmail = 'logosfze@gmail.com';
 const generatedDate = new Date().toISOString().slice(0, 10);
 const publicDir = path.resolve('public');
 

@@ -16,7 +16,11 @@ import { products } from './data/products';
 import { Page, Product } from './types';
 
 const SITE_URL = 'https://logosae.com';
-const CONTACT_EMAIL = 'info@logos.ae';
+const CONTACT_EMAIL = 'logosfze@gmail.com';
+const CONTACT_PHONE = '+971 55 832 2030';
+const CONTACT_PERSON = 'Simon Philip';
+const CONTACT_ROLE = 'Business Development Manager';
+const CONTACT_ADDRESS = 'P1- Hamriyah Business Center, P.O. Box- 41565, Hamriyah Free Zone - Sharjah, United Arab Emirates';
 const BRAND_IMAGE = `${SITE_URL}/logo-official.png`;
 const BRAND_LOGO = `${SITE_URL}/logo-official.png`;
 
@@ -1407,6 +1411,7 @@ const Footer = ({ onPageChange }: { onPageChange: (page: Page, target?: string) 
           <Mail size={16} />
           {CONTACT_EMAIL}
         </a>
+        <p className="footer-contact-detail">{CONTACT_PERSON} · {CONTACT_ROLE}<br />{CONTACT_PHONE}</p>
       </div>
       <div className="footer-links-group">
         <p className="footer-label">Explore</p>
@@ -1418,7 +1423,7 @@ const Footer = ({ onPageChange }: { onPageChange: (page: Page, target?: string) 
       </div>
       <div className="footer-coverage">
         <p className="footer-label">Supply desk</p>
-        <p>Based in Sharjah for UAE and GCC supply enquiries.</p>
+        <p>{CONTACT_ADDRESS}</p>
         <div className="footer-regions" aria-label="Supply regions">
           {['Sharjah', 'Dubai', 'Abu Dhabi', 'UAE', 'GCC'].map((area) => <span key={area}>{area}</span>)}
         </div>
@@ -2220,8 +2225,10 @@ const ContactPage = () => {
             </a>
             <span>
               <MapPin size={18} />
-              Sharjah, United Arab Emirates
+              {CONTACT_ADDRESS}
             </span>
+            <span><Mail size={18} />{CONTACT_PERSON} · {CONTACT_ROLE}</span>
+            <span><Globe2 size={18} />{CONTACT_PHONE}</span>
             <span>
               <Globe2 size={18} />
               UAE and GCC inquiries
