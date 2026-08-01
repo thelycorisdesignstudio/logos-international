@@ -1747,8 +1747,8 @@ const ProductsPage = () => {
                       alt={productImageAlt(product)}
                       loading="lazy"
                     />
-                    <span className="product-code-badge">{categoryCodes[product.category] || 'LI'}</span>
-                    <em>{product.category}</em>
+                    <span className="product-code-badge">{String(product.id).padStart(2, '0')}</span>
+                    <span className="product-image-caption">{categoryCodes[product.category] || 'LI'} / representative image</span>
                   </button>
                   <div className="product-body">
                     <div className="product-kicker">

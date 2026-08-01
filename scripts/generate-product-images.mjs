@@ -6,7 +6,17 @@ const outputDir = path.resolve('public/catalog-images');
 const manifestPath = path.join(outputDir, 'manifest.json');
 const attributionPath = path.join(outputDir, 'attribution.json');
 const productImagesTsPath = path.resolve('src/data/productImages.ts');
-const sourceOverrideRevision = '2026-07-31-product-photo-audit-v15';
+const sourceOverrideRevision = '2026-08-01-product-photo-audit-v17';
+const refreshImageSelection = new Set([
+  'Twill Cotton 2pc Uniform',
+  'Fire Retardant Coverall',
+  'Nitrile Gloves',
+  'Ear Muff',
+  'Ear Plug',
+  'Safety Goggles',
+  'Safety Barrier',
+  'Custom Order Sourcing',
+]);
 
 const userAgent = 'LogosInternationalImageBuilder/1.0 (https://logosae.com)';
 const allowedMimes = new Map([
@@ -843,7 +853,7 @@ const collectCandidates = async (product, usedSourceUrls) => {
   const candidates = [];
   const manualOverride = manualImageOverrides[product.name];
 
-  if (manualOverride) {
+  if (manualOverride && !refreshImageSelection.has(product.name)) {
     candidates.push({
       source: manualOverride.source || (manualOverride.downloadUrl.includes('flickr') ? 'flickr' : 'Wikimedia Commons'),
       title: manualOverride.title,
