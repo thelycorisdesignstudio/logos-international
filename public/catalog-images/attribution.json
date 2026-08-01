@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T08:02:03.717Z",
+  "generatedAt": "2026-08-01T08:44:55.673Z",
   "note": "Attribution and license metadata for catalog images used by Logos International.",
   "images": [
     {
@@ -383,13 +383,13 @@
       "productId": 30,
       "productName": "Metal Helmet",
       "imagePath": "catalog-images/30-metal-helmet.jpg",
-      "sourceTitle": "U.S. Forest Service metal hard hat worn by Melody Starya Mobley",
-      "source": "Smithsonian Institution",
-      "sourceUrl": "https://nmaahc.si.edu/object/nmaahc_2019.80.1",
-      "creator": "Mine Safety Appliances Company",
-      "license": "CC0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "query": "representative catalog product photo",
+      "sourceTitle": "NERVA XE nuclear rocket engine being transported to test stand - GPN-2002-000143.jpg",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NERVA_XE_nuclear_rocket_engine_being_transported_to_test_stand_-_GPN-2002-000143.jpg",
+      "creator": "AEC-NASA",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "query": "aluminum hard hat",
       "matchConfidence": "high"
     },
     {

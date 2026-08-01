@@ -6,7 +6,7 @@ const outputDir = path.resolve('public/catalog-images');
 const manifestPath = path.join(outputDir, 'manifest.json');
 const attributionPath = path.join(outputDir, 'attribution.json');
 const productImagesTsPath = path.resolve('src/data/productImages.ts');
-const sourceOverrideRevision = '2026-08-01-product-photo-audit-v19';
+const sourceOverrideRevision = '2026-08-01-product-photo-audit-v20';
 const refreshImageSelection = new Set([
   'Twill Cotton 2pc Uniform',
   'Fire Retardant Coverall',
@@ -16,7 +16,6 @@ const refreshImageSelection = new Set([
   'Safety Goggles',
   'Safety Barrier',
   'Custom Order Sourcing',
-  'Metal Helmet',
   'Fiber Helmet',
   'Helmet with Ratchet & Chin Strap',
   'Bird Feed & Accessories',
@@ -27,6 +26,8 @@ const refreshImageSelection = new Set([
   'Welder Boot',
   'Gumboot',
   'Executive Safety Shoes',
+  'Chemical Resistant Gloves',
+  'Vinyl Gloves',
 ]);
 
 const userAgent = 'LogosInternationalImageBuilder/1.0 (https://logosae.com)';
@@ -226,13 +227,13 @@ const manualImageOverrides = {
     licenseUrl: 'https://creativecommons.org/publicdomain/zero/1.0/',
   },
   'Metal Helmet': {
-    source: 'Smithsonian Institution',
-    title: 'U.S. Forest Service metal hard hat worn by Melody Starya Mobley',
-    downloadUrl: 'https://ids.si.edu/ids/deliveryService?id=NMAAHC-2019_80_1_005',
-    sourceUrl: 'https://nmaahc.si.edu/object/nmaahc_2019.80.1',
-    creator: 'Mine Safety Appliances Company',
-    license: 'CC0',
-    licenseUrl: 'https://creativecommons.org/publicdomain/zero/1.0/',
+    source: 'Pitbull Safety',
+    title: 'PITBULL ABS VISOR helmet product banner',
+    downloadUrl: 'https://pitbullsafety.com/wp-content/uploads/2023/06/PITBULL-ABS-VISOR-helmet-web-Banner-0x0.jpg',
+    sourceUrl: 'https://pitbullsafety.com/',
+    creator: 'Pitbull Safety Products',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://pitbullsafety.com/',
   },
   'Disposable Coverall': {
     title: 'Bioclean-D BDCCT Product.jpg',
@@ -397,6 +398,15 @@ const manualImageOverrides = {
     creator: 'Wilfredor',
     license: 'CC0',
     licenseUrl: 'https://creativecommons.org/publicdomain/zero/1.0/',
+  },
+  'Nitrile Gloves': {
+    source: 'Nova Green',
+    title: 'Nova Green protective gloves product image',
+    downloadUrl: 'https://novagreen.ae/wp-content/uploads/2024/12/glouws-47-1-1024x1024.webp',
+    sourceUrl: 'https://novagreen.ae/',
+    creator: 'Nova Green',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://novagreen.ae/',
   },
   'Custom Order Sourcing': {
     title: 'Steel wire coils and wrapped pallets at construction supply yard',
