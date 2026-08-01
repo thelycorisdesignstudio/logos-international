@@ -97,7 +97,7 @@
           "id": 3,
           "name": "Cotton Coverall",
           "description": "100% Cotton industrial coverall for standard protection.",
-          "image": "https://logosae.com/catalog-images/03-cotton-coverall.jpg"
+          "image": "https://logosae.com/catalog-images/03-cotton-coverall.webp"
         },
         {
           "id": 4,
@@ -115,13 +115,13 @@
           "id": 6,
           "name": "Disposable Coverall",
           "description": "Lightweight breathable disposable coveralls.",
-          "image": "https://logosae.com/catalog-images/06-disposable-coverall.jpg"
+          "image": "https://logosae.com/catalog-images/06-disposable-coverall.webp"
         },
         {
           "id": 7,
           "name": "Fire Retardant Coverall",
           "description": "Certified FR coveralls for hazardous environments.",
-          "image": "https://logosae.com/catalog-images/07-fire-retardant-coverall.png"
+          "image": "https://logosae.com/catalog-images/07-fire-retardant-coverall.webp"
         },
         {
           "id": 8,
@@ -181,7 +181,7 @@
           "id": 33,
           "name": "Full Body Harness",
           "description": "Ergonomic harness for high-altitude work.",
-          "image": "https://logosae.com/catalog-images/33-full-body-harness.jpg"
+          "image": "https://logosae.com/catalog-images/33-full-body-harness.webp"
         },
         {
           "id": 34,
@@ -193,7 +193,7 @@
           "id": 35,
           "name": "Retractable Fall Arrester",
           "description": "Automatic self-retracting lifeline.",
-          "image": "https://logosae.com/catalog-images/35-retractable-fall-arrester.jpg"
+          "image": "https://logosae.com/catalog-images/35-retractable-fall-arrester.webp"
         },
         {
           "id": 36,
@@ -250,7 +250,7 @@
           "id": 20,
           "name": "Welding Gloves",
           "description": "Heat-resistant welding gloves for fabrication and maintenance work.",
-          "image": "https://logosae.com/catalog-images/20-welding-gloves.jpg"
+          "image": "https://logosae.com/catalog-images/20-welding-gloves.webp"
         }
       ]
     },
@@ -265,19 +265,19 @@
           "id": 30,
           "name": "Metal Helmet",
           "description": "Metal safety helmets for industrial work.",
-          "image": "https://logosae.com/catalog-images/30-metal-helmet.png"
+          "image": "https://logosae.com/catalog-images/30-metal-helmet.jpg"
         },
         {
           "id": 31,
           "name": "Fiber Helmet",
           "description": "Lightweight fiber-reinforced hard hats.",
-          "image": "https://logosae.com/catalog-images/31-fiber-helmet.png"
+          "image": "https://logosae.com/catalog-images/31-fiber-helmet.jpg"
         },
         {
           "id": 32,
           "name": "Helmet with Ratchet & Chin Strap",
           "description": "Adjustable safety helmet with secure chin strap.",
-          "image": "https://logosae.com/catalog-images/32-helmet-with-ratchet-and-chin-strap.jpg"
+          "image": "https://logosae.com/catalog-images/32-helmet-with-ratchet-and-chin-strap.webp"
         }
       ]
     },
@@ -340,7 +340,7 @@
           "id": 54,
           "name": "Safety Barrier",
           "description": "Expandable and fixed safety barriers.",
-          "image": "https://logosae.com/catalog-images/54-safety-barrier.jpg"
+          "image": "https://logosae.com/catalog-images/54-safety-barrier.webp"
         },
         {
           "id": 55,
@@ -541,7 +541,7 @@
           "id": 22,
           "name": "N95 Mask",
           "description": "High-filtration particulate respirator masks.",
-          "image": "https://logosae.com/catalog-images/22-n95-mask.png"
+          "image": "https://logosae.com/catalog-images/22-n95-mask.webp"
         },
         {
           "id": 23,
