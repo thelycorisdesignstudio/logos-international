@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-01T08:44:55.673Z",
-  "sourceOverrideRevision": "2026-08-01-product-photo-audit-v20",
+  "generatedAt": "2026-08-01T08:46:44.622Z",
+  "sourceOverrideRevision": "2026-08-01-product-photo-audit-v21",
   "sourcePolicy": "Real internet-sourced catalog photos downloaded from Wikimedia Commons and Openverse search results, with noncommercial licenses filtered out where exposed by the source API.",
   "totalProducts": 79,
   "products": [
@@ -503,15 +503,15 @@
       "category": "Head Protection",
       "path": "catalog-images/30-metal-helmet.jpg",
       "alt": "Metal Helmet representative catalog image for Logos International",
-      "source": "Wikimedia Commons",
-      "sourceTitle": "NERVA XE nuclear rocket engine being transported to test stand - GPN-2002-000143.jpg",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NERVA_XE_nuclear_rocket_engine_being_transported_to_test_stand_-_GPN-2002-000143.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/NERVA_XE_nuclear_rocket_engine_being_transported_to_test_stand_-_GPN-2002-000143.jpg/960px-NERVA_XE_nuclear_rocket_engine_being_transported_to_test_stand_-_GPN-2002-000143.jpg",
-      "creator": "AEC-NASA",
-      "license": "Public domain",
-      "licenseUrl": "",
-      "query": "aluminum hard hat",
-      "matchScore": 78,
+      "source": "Pitbull Safety",
+      "sourceTitle": "PITBULL ABS VISOR helmet product banner",
+      "sourceUrl": "https://pitbullsafety.com/",
+      "downloadUrl": "https://pitbullsafety.com/wp-content/uploads/2023/06/PITBULL-ABS-VISOR-helmet-web-Banner-0x0.jpg",
+      "creator": "Pitbull Safety Products",
+      "license": "Authorized dealer product imagery",
+      "licenseUrl": "https://pitbullsafety.com/",
+      "query": "representative catalog product photo",
+      "matchScore": 999,
       "matchConfidence": "high"
     },
     {

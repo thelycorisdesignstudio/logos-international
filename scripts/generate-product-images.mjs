@@ -6,7 +6,7 @@ const outputDir = path.resolve('public/catalog-images');
 const manifestPath = path.join(outputDir, 'manifest.json');
 const attributionPath = path.join(outputDir, 'attribution.json');
 const productImagesTsPath = path.resolve('src/data/productImages.ts');
-const sourceOverrideRevision = '2026-08-01-product-photo-audit-v20';
+const sourceOverrideRevision = '2026-08-01-product-photo-audit-v21';
 const refreshImageSelection = new Set([
   'Twill Cotton 2pc Uniform',
   'Fire Retardant Coverall',
