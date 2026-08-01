@@ -6,19 +6,8 @@ const outputDir = path.resolve('public/catalog-images');
 const manifestPath = path.join(outputDir, 'manifest.json');
 const attributionPath = path.join(outputDir, 'attribution.json');
 const productImagesTsPath = path.resolve('src/data/productImages.ts');
-const sourceOverrideRevision = '2026-08-01-product-photo-audit-v26';
-const refreshImageSelection = new Set([
-  'Twill Cotton 2pc Uniform',
-  'Ear Muff',
-  'Safety Goggles',
-  'Safety Barrier',
-  'Custom Order Sourcing',
-  'Bird Feed & Accessories',
-  'Bio-degradable Garbage Bags',
-  'Chemical Resistant Gloves',
-  'Vinyl Gloves',
-  'Custom Shield & Trophy',
-]);
+const sourceOverrideRevision = '2026-08-01-product-photo-audit-v33';
+const refreshImageSelection = new Set();
 
 const userAgent = 'LogosInternationalImageBuilder/1.0 (https://logosae.com)';
 const allowedMimes = new Map([
@@ -713,6 +702,417 @@ const manualImageOverrides = {
     license: 'Authorized dealer product imagery',
     licenseUrl: 'https://pitbullsafety.com/',
   },
+  'Cotton Coverall': {
+    source: 'Pitbull Safety',
+    title: 'Pitbull 200 GSM coverall product image',
+    downloadUrl: 'https://pitbullsafety.com/wp-content/uploads/2024/01/PITBULL-200GSM-COVERALL.jpg',
+    sourceUrl: 'https://pitbullsafety.com/',
+    creator: 'Pitbull Safety Products',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://pitbullsafety.com/',
+  },
+  'Twill Cotton 2pc Uniform': {
+    source: 'Pitbull Safety',
+    title: 'Pitbull work jacket and trouser uniform',
+    downloadUrl: 'https://pitbullsafety.com/wp-content/uploads/2024/01/PITBULL-280GSM-JACKET-AND-TROUSER.jpg',
+    sourceUrl: 'https://pitbullsafety.com/',
+    creator: 'Pitbull Safety Products',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://pitbullsafety.com/',
+  },
+  'High Visibility Reflective Vest': {
+    source: 'Pitbull Safety',
+    title: 'Pitbull high visibility safety vest',
+    downloadUrl: 'https://pitbullsafety.com/wp-content/uploads/2020/10/Yellow-green.png',
+    sourceUrl: 'https://pitbullsafety.com/',
+    creator: 'Pitbull Safety Products',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://pitbullsafety.com/',
+  },
+  'Disposable Coverall': {
+    source: 'Pitbull Safety',
+    title: 'Pitbull disposable coverall product pack',
+    downloadUrl: 'https://pitbullsafety.com/wp-content/uploads/2024/01/DISPOSABLE-COVERALL-40-GSM.jpg',
+    sourceUrl: 'https://pitbullsafety.com/',
+    creator: 'Pitbull Safety Products',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://pitbullsafety.com/',
+  },
+  'Metal Safety Shoes': {
+    source: 'Pitbull Safety',
+    title: 'Pitbull S3 steel toe safety boot',
+    downloadUrl: 'https://pitbullsafety.com/wp-content/uploads/2019/09/PB-2002-S3-scaled.jpg',
+    sourceUrl: 'https://pitbullsafety.com/',
+    creator: 'Pitbull Safety Products',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://pitbullsafety.com/',
+  },
+  'Executive Safety Shoes': {
+    source: 'Pitbull Safety',
+    title: 'Pitbull executive safety shoe',
+    downloadUrl: 'https://pitbullsafety.com/wp-content/uploads/2019/09/PB-2099-S2-scaled.jpg',
+    sourceUrl: 'https://pitbullsafety.com/',
+    creator: 'Pitbull Safety Products',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://pitbullsafety.com/',
+  },
+  'Vinyl Gloves': {
+    source: 'Pitbull Safety',
+    title: 'Pitbull vinyl gloves product box',
+    downloadUrl: 'https://pitbullsafety.com/wp-content/uploads/2020/09/Vinyl-Box.jpg',
+    sourceUrl: 'https://pitbullsafety.com/',
+    creator: 'Pitbull Safety Products',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://pitbullsafety.com/',
+  },
+  'Latex Gloves': {
+    source: 'Pitbull Safety',
+    title: 'Pitbull latex gloves product box',
+    downloadUrl: 'https://pitbullsafety.com/wp-content/uploads/2020/09/LatexBox.jpg',
+    sourceUrl: 'https://pitbullsafety.com/',
+    creator: 'Pitbull Safety Products',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://pitbullsafety.com/',
+  },
+  'Surgical Masks': {
+    source: 'Pitbull Safety',
+    title: 'Pitbull surgical mask product box',
+    downloadUrl: 'https://pitbullsafety.com/wp-content/uploads/2020/10/SM-4001-Box.png',
+    sourceUrl: 'https://pitbullsafety.com/',
+    creator: 'Pitbull Safety Products',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://pitbullsafety.com/',
+  },
+  'N95 Mask': {
+    source: 'Pitbull Safety',
+    title: 'Pitbull FFP2 particulate respirator product pack',
+    downloadUrl: 'https://pitbullsafety.com/wp-content/uploads/2020/10/FDF-5008.png',
+    sourceUrl: 'https://pitbullsafety.com/',
+    creator: 'Pitbull Safety Products',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://pitbullsafety.com/',
+  },
+  'Safety Goggles': {
+    source: 'Pitbull Safety',
+    title: 'Pitbull protective safety goggles',
+    downloadUrl: 'https://pitbullsafety.com/wp-content/uploads/2020/10/FS-500-GOGGLES.png',
+    sourceUrl: 'https://pitbullsafety.com/',
+    creator: 'Pitbull Safety Products',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://pitbullsafety.com/',
+  },
+  'Safety Spectacles': {
+    source: 'Pitbull Safety',
+    title: 'Pitbull clear safety spectacle with face shield',
+    downloadUrl: 'https://pitbullsafety.com/wp-content/uploads/2019/09/PITBULL-FG-1503-AF-AS-Scratch-Proof-Safety-Glass-CLEAR-W-V1-SHIELD.jpg',
+    sourceUrl: 'https://pitbullsafety.com/',
+    creator: 'Pitbull Safety Products',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://pitbullsafety.com/',
+  },
+  Lanyard: {
+    source: 'Pitbull Safety',
+    title: 'Pitbull fall protection lanyard',
+    downloadUrl: 'https://pitbullsafety.com/wp-content/uploads/2024/01/PITBULL-LANYARD.jpg',
+    sourceUrl: 'https://pitbullsafety.com/',
+    creator: 'Pitbull Safety Products',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://pitbullsafety.com/',
+  },
+  'PVC Apron': {
+    source: 'Nova Green',
+    title: 'Nova Green protective aprons',
+    downloadUrl: 'https://novagreen.ae/wp-content/uploads/2025/07/All-Aprons.png',
+    sourceUrl: 'https://novagreen.ae/',
+    creator: 'Nova Green',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://novagreen.ae/',
+  },
+  'DTF Printing': {
+    source: 'Wikimedia Commons',
+    title: 'Screen printing machine with ventilation system',
+    downloadUrl:
+      'https://commons.wikimedia.org/wiki/Special:FilePath/Screen%20printing%20machine%20with%20ventilation%20system.jpg?width=1200',
+    sourceUrl: commonsFilePage('Screen printing machine with ventilation system.jpg'),
+    creator: 'Wikimedia Commons contributor',
+    license: 'Wikimedia Commons license',
+  },
+  'Embroidery Service': {
+    source: 'Wikimedia Commons',
+    title: 'Industrial embroidery machine',
+    downloadUrl: 'https://commons.wikimedia.org/wiki/Special:FilePath/Industrial%20embroidery%20machine.jpg?width=1200',
+    sourceUrl: commonsFilePage('Industrial embroidery machine.jpg'),
+    creator: 'Wikimedia Commons contributor',
+    license: 'Wikimedia Commons license',
+  },
+  'Screen Printing': {
+    source: 'Wikimedia Commons',
+    title: 'Screen printing machine',
+    downloadUrl: 'https://commons.wikimedia.org/wiki/Special:FilePath/Screen%20Printing%20machine.jpg?width=1200',
+    sourceUrl: commonsFilePage('Screen Printing machine.jpg'),
+    creator: 'Wikimedia Commons contributor',
+    license: 'Wikimedia Commons license',
+  },
+  'Offset Printing': {
+    source: 'Wikimedia Commons',
+    title: 'Offset printing press',
+    downloadUrl: 'https://commons.wikimedia.org/wiki/Special:FilePath/Offset%20printing%20press%202.jpg?width=1200',
+    sourceUrl: commonsFilePage('Offset printing press 2.jpg'),
+    creator: 'Wikimedia Commons contributor',
+    license: 'Wikimedia Commons license',
+  },
+  'Custom Shield & Trophy': {
+    source: 'Wikimedia Commons',
+    title: 'Trophy detail',
+    downloadUrl:
+      'https://commons.wikimedia.org/wiki/Special:FilePath/FIFA%20World%20Cup%20Trophy%20%28Ank%20Kumar%2C%20Infosys%20Limited%29%2003.jpg?width=1200',
+    sourceUrl: commonsFilePage('FIFA World Cup Trophy (Ank Kumar, Infosys Limited) 03.jpg'),
+    creator: 'Wikimedia Commons contributor',
+    license: 'Wikimedia Commons license',
+  },
+  'Bird Feed & Accessories': {
+    source: 'Wikimedia Commons',
+    title: 'Budgie seed mixture',
+    downloadUrl:
+      'https://commons.wikimedia.org/wiki/Special:FilePath/Hagoromo%20budgies%20seed%20mixture%20photo.jpg?width=1200',
+    sourceUrl: commonsFilePage('Hagoromo budgies seed mixture photo.jpg'),
+    creator: 'Wikimedia Commons contributor',
+    license: 'Wikimedia Commons license',
+  },
+  'Industrial Traffic Cone': {
+    source: 'Border Safety Wears',
+    title: 'Border traffic warning triangle',
+    downloadUrl: 'https://bordersafetywears.com/uploads/products/product_137_69663e107177a1.99138887.webp',
+    sourceUrl: 'https://bordersafetywears.com/products?c=8&sc=13',
+    creator: 'Border Safety Wears',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://bordersafetywears.com/',
+  },
+  'Safety Barrier': {
+    source: 'Border Safety Wears',
+    title: 'Border expandable safety barrier',
+    downloadUrl: 'https://bordersafetywears.com/uploads/products/product_136_69663e03548b60.38292782.webp',
+    sourceUrl: 'https://bordersafetywears.com/products?c=8&sc=13',
+    creator: 'Border Safety Wears',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://bordersafetywears.com/',
+  },
+  'Bio-degradable Garbage Bags': {
+    source: 'Nova Green',
+    title: 'Nova Green commercial waste bags',
+    downloadUrl: 'https://novagreen.ae/wp-content/uploads/2026/01/ChatGPT-Image-Jan-31-2026-12_09_39-PM.png',
+    sourceUrl: 'https://novagreen.ae/catalogue/garbage-bag-black/',
+    creator: 'Nova Green',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://novagreen.ae/',
+  },
+  'Garbage Bags': {
+    source: 'Nova Green',
+    title: 'Nova Green commercial black garbage bags',
+    downloadUrl: 'https://novagreen.ae/wp-content/uploads/2026/01/ChatGPT-Image-Jan-31-2026-12_09_39-PM.png',
+    sourceUrl: 'https://novagreen.ae/catalogue/garbage-bag-black/',
+    creator: 'Nova Green',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://novagreen.ae/',
+  },
+  'Aluminum Ladder': {
+    source: 'Wikimedia Commons',
+    title: 'Aluminum step ladder',
+    downloadUrl: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ladder%20aluminum.jpg?width=1200',
+    sourceUrl: commonsFilePage('Ladder aluminum.jpg'),
+    creator: 'Wikimedia Commons contributor',
+    license: 'Wikimedia Commons license',
+    presentation: 'contain',
+  },
+  'Disposable Shoe Covers': {
+    source: 'Nova Green',
+    title: 'Nova Green disposable shoe covers',
+    downloadUrl: 'https://novagreen.ae/wp-content/uploads/2024/12/quality-shoe.png',
+    sourceUrl: 'https://novagreen.ae/',
+    creator: 'Nova Green',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://novagreen.ae/',
+  },
+  'Cleaning Accessories': {
+    source: 'Nova Green',
+    title: 'Nova Green concentrated all-purpose cleaner',
+    downloadUrl: 'https://novagreen.ae/wp-content/uploads/2025/08/U-9.png',
+    sourceUrl: 'https://novagreen.ae/product-category/cleaning-hygiene/',
+    creator: 'Nova Green',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://novagreen.ae/',
+  },
+  'Winter Jacket': {
+    source: 'Border Safety Wears',
+    title: 'Border winter work jacket',
+    downloadUrl: 'https://bordersafetywears.com/uploads/products/product_29_696636a95009c2.76958743.webp',
+    sourceUrl: 'https://bordersafetywears.com/product/winter-jacket-bwj-3700-border',
+    creator: 'Border Safety Wears',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://bordersafetywears.com/',
+  },
+  'Medical Consumables': {
+    source: 'Pitbull Safety',
+    title: 'Pitbull medical isolation disposable coverall',
+    downloadUrl: 'https://pitbullsafety.com/wp-content/uploads/2020/10/65-GSM-DISPOSABLE-COVERALL-1.png',
+    sourceUrl: 'https://pitbullsafety.com/',
+    creator: 'Pitbull Safety Products',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://pitbullsafety.com/',
+  },
+  'Half Face Mask': {
+    source: 'Johnson Middle East',
+    title: 'Half face respirator',
+    downloadUrl: 'https://johnsonme.com/wp-content/uploads/2018/08/13122016041802FACE-MASK.png',
+    sourceUrl: 'https://johnsonme.com/',
+    creator: 'Johnson Middle East',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://johnsonme.com/',
+  },
+  'Ear Muff': {
+    source: 'Johnson Middle East',
+    title: 'Ear defender muff',
+    downloadUrl: 'https://johnsonme.com/wp-content/uploads/2018/08/08122016063246EAR-DEFENDER-MUFF.png',
+    sourceUrl: 'https://johnsonme.com/',
+    creator: 'Johnson Middle East',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://johnsonme.com/',
+  },
+  'Retractable Fall Arrester': {
+    source: 'Johnson Middle East',
+    title: 'Retractable fall arrester',
+    downloadUrl: 'https://johnsonme.com/wp-content/uploads/RETRACTABLE-FALL-ARRESTER-WEBBING-scaled.jpg',
+    sourceUrl: 'https://johnsonme.com/',
+    creator: 'Johnson Middle East',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://johnsonme.com/',
+  },
+  'Warning Tape': {
+    source: 'Johnson Middle East',
+    title: 'Warning tape product image',
+    downloadUrl: 'https://johnsonme.com/wp-content/uploads/watermark-web.jpg',
+    sourceUrl: 'https://johnsonme.com/',
+    creator: 'Johnson Middle East',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://johnsonme.com/',
+  },
+  'PVC Bucket / Plastic Drum': {
+    source: 'Nova Green',
+    title: 'Nova Green plastic drum',
+    downloadUrl: 'https://novagreen.ae/wp-content/uploads/2025/08/Bottle-wash-200L-Drum.png',
+    sourceUrl: 'https://novagreen.ae/product-category/cleaning-hygiene/',
+    creator: 'Nova Green',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://novagreen.ae/',
+  },
+  'Hygiene Products': {
+    source: 'Nova Green',
+    title: 'Nova Green fragrance-free hand soap',
+    downloadUrl: 'https://novagreen.ae/wp-content/uploads/2025/08/U-6.png',
+    sourceUrl: 'https://novagreen.ae/product-category/cleaning-hygiene/',
+    creator: 'Nova Green',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://novagreen.ae/',
+  },
+  'Half Face Mask': {
+    source: 'Vaultex',
+    title: 'North by Honeywell industrial silicone half face mask',
+    downloadUrl: 'https://sbmmarketplace.com/backend/public/uploads/2022/04/atm.jpg',
+    sourceUrl: 'https://sbmmarketplace.com/product/north-by-honeywell-7700-series-industrial-silicone-half-face-mask-part-no-770030m',
+    creator: 'Vaultex',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://sbmmarketplace.com/',
+  },
+  'Ear Muff': {
+    source: 'Vaultex',
+    title: 'Honeywell VeriShield ear defender',
+    downloadUrl: 'https://sbmmarketplace.com/backend/public/uploads/2023/04/nfo01.jpg',
+    sourceUrl: 'https://sbmmarketplace.com/product/honeywell-howard-leight-verishield-vs130-dielectric-ear-defender-headband-type-part-no-1035109-vs',
+    creator: 'Vaultex',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://sbmmarketplace.com/',
+  },
+  'Retractable Fall Arrester': {
+    source: 'Vaultex',
+    title: 'Vaultex retractable fall arrester',
+    downloadUrl: 'https://sbmmarketplace.com/backend/public/uploads/2026/01/edg.jpg',
+    sourceUrl: 'https://sbmmarketplace.com/product/vaultex-retractable-fall-arrester-with-snap-hook-1-8-meters-part-no-edge-nano',
+    creator: 'Vaultex',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://sbmmarketplace.com/',
+  },
+  'Industrial Traffic Cone': {
+    source: 'Vaultex',
+    title: 'SCI industrial traffic cone',
+    downloadUrl: 'https://sbmmarketplace.com/backend/public/uploads/2022/05/tc2-01-copy.jpg',
+    sourceUrl: 'https://sbmmarketplace.com/',
+    creator: 'Vaultex',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://sbmmarketplace.com/',
+  },
+  'Warning Tape': {
+    source: 'Vaultex',
+    title: 'Workland yellow and black warning tape',
+    downloadUrl: 'https://sbmmarketplace.com/backend/public/uploads/2024/07/fui.jpg',
+    sourceUrl: 'https://sbmmarketplace.com/',
+    creator: 'Vaultex',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://sbmmarketplace.com/',
+  },
+  'Safety Barrier': {
+    source: 'Vaultex',
+    title: 'Expandable water-fill safety barrier',
+    downloadUrl: 'https://sbmmarketplace.com/backend/public/uploads/2022/05/stc.jpg',
+    sourceUrl: 'https://sbmmarketplace.com/',
+    creator: 'Vaultex',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://sbmmarketplace.com/',
+  },
+  'Oil Spill Kit': {
+    source: 'Vaultex',
+    title: 'Vaultex five-gallon oil spill kit',
+    downloadUrl: 'https://sbmmarketplace.com/backend/public/uploads/2022/05/ind.jpg',
+    sourceUrl: 'https://sbmmarketplace.com/product/vaultex-5-gallon-oil-spill-kit-1',
+    creator: 'Vaultex',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://sbmmarketplace.com/',
+  },
+  'PVC Bucket / Plastic Drum': {
+    source: 'Vaultex',
+    title: 'Vaultex plastic bucket for industrial use',
+    downloadUrl: 'https://sbmmarketplace.com/backend/public/uploads/2022/10/skm.jpg',
+    sourceUrl: 'https://sbmmarketplace.com/product/plastic-bucket-for-industrial-use-y',
+    creator: 'Vaultex',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://sbmmarketplace.com/',
+  },
+  'Hairnet Bulk Pack': {
+    source: 'Vaultex',
+    title: 'Vaultex disposable white bouffant cap',
+    downloadUrl: 'https://sbmmarketplace.com/backend/public/uploads/2026/01/hcw-1.jpg',
+    sourceUrl: 'https://sbmmarketplace.com/product/vaultex-disposable-head-cover-white-color-1',
+    creator: 'Vaultex',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://sbmmarketplace.com/',
+  },
+  'Nylon Rope': {
+    source: 'Vaultex',
+    title: 'Vaultex twisted nylon rope',
+    downloadUrl: 'https://sbmmarketplace.com/backend/public/uploads/2023/10/tod-1.jpg',
+    sourceUrl: 'https://sbmmarketplace.com/product/vaultex-14mm-nylon-rope-20-meters',
+    creator: 'Vaultex',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://sbmmarketplace.com/',
+  },
+  'Blower Fan with Duct': {
+    source: 'Vaultex',
+    title: 'Maximus industrial shutter fan',
+    downloadUrl: 'https://sbmmarketplace.com/backend/public/uploads/2024/06/ufg-1.jpg',
+    sourceUrl: 'https://sbmmarketplace.com/product/maximus-6-inch-automatic-shutter-fan-for-wall-partition-without-back-grill-part-no-maxair-atsd6',
+    creator: 'Vaultex',
+    license: 'Authorized dealer product imagery',
+    licenseUrl: 'https://sbmmarketplace.com/',
+  },
 };
 
 const categoryQueries = {
@@ -1015,6 +1415,7 @@ const collectCandidates = async (product, usedSourceUrls) => {
       height: 640,
       query: 'representative catalog product photo',
       score: 999,
+      presentation: manualOverride.presentation,
     });
 
     return candidates;
@@ -1135,10 +1536,20 @@ const downloadCandidate = async (product, candidate) => {
     throw new Error('Downloaded image was too small to use.');
   }
 
+  const normalizedBuffer =
+    candidate.presentation === 'contain'
+      ? await sharp(buffer)
+          .rotate()
+          .resize({ width: 1200, height: 900, fit: 'contain', background: '#f2f2ee' })
+          .jpeg({ quality: 90, chromaSubsampling: '4:4:4' })
+          .toBuffer()
+      : buffer;
+  const normalizedExtension = candidate.presentation === 'contain' ? 'jpg' : extension;
+
   await removeExistingProductFiles(product);
-  const fileName = `${productFileStem(product)}.${extension}`;
+  const fileName = `${productFileStem(product)}.${normalizedExtension}`;
   const filePath = path.join(outputDir, fileName);
-  await writeFile(filePath, buffer);
+  await writeFile(filePath, normalizedBuffer);
 
   return {
     id: product.id,
@@ -1156,6 +1567,7 @@ const downloadCandidate = async (product, candidate) => {
     query: candidate.query,
     matchScore: candidate.score,
     matchConfidence: confidenceFor(candidate.score),
+    presentation: candidate.presentation,
   };
 };
 
@@ -1247,7 +1659,8 @@ for (const product of products) {
     !currentManualOverride ||
     (existingEntry?.sourceUrl === currentManualOverride.sourceUrl &&
       existingEntry?.downloadUrl === currentManualOverride.downloadUrl &&
-      (!currentManualOverride.source || existingEntry?.source === currentManualOverride.source));
+      (!currentManualOverride.source || existingEntry?.source === currentManualOverride.source) &&
+      (existingEntry?.presentation || undefined) === currentManualOverride.presentation);
   const shouldReuseExisting =
     existingEntry &&
     matchesCurrentSource &&

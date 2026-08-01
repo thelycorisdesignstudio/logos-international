@@ -109,7 +109,7 @@
           "id": 5,
           "name": "High Visibility Reflective Vest",
           "description": "Standard safety vests with high intensity reflective strips.",
-          "image": "https://logosae.com/catalog-images/05-high-visibility-reflective-vest.jpg"
+          "image": "https://logosae.com/catalog-images/05-high-visibility-reflective-vest.png"
         },
         {
           "id": 6,
@@ -148,7 +148,7 @@
           "id": 26,
           "name": "Safety Goggles",
           "description": "Sealed goggles for chemical and dust protection.",
-          "image": "https://logosae.com/catalog-images/26-safety-goggles.jpg"
+          "image": "https://logosae.com/catalog-images/26-safety-goggles.png"
         },
         {
           "id": 27,
@@ -307,7 +307,7 @@
           "id": 76,
           "name": "Medical Consumables",
           "description": "General medical consumables supplied on request for hygiene, workplace, and facility needs.",
-          "image": "https://logosae.com/catalog-images/76-medical-consumables.jpg"
+          "image": "https://logosae.com/catalog-images/76-medical-consumables.png"
         }
       ]
     },
@@ -358,19 +358,19 @@
           "id": 57,
           "name": "PVC Apron",
           "description": "Chemical resistant work apron.",
-          "image": "https://logosae.com/catalog-images/57-pvc-apron.jpg"
+          "image": "https://logosae.com/catalog-images/57-pvc-apron.png"
         },
         {
           "id": 79,
           "name": "Garbage Bags",
           "description": "Garbage bags supplied for facility, hygiene, and commercial waste requirements.",
-          "image": "https://logosae.com/catalog-images/79-garbage-bags.jpg"
+          "image": "https://logosae.com/catalog-images/79-garbage-bags.png"
         },
         {
           "id": 58,
           "name": "Bio-degradable Garbage Bags",
           "description": "Environmentally friendly waste management bags.",
-          "image": "https://logosae.com/catalog-images/58-bio-degradable-garbage-bags.jpg"
+          "image": "https://logosae.com/catalog-images/58-bio-degradable-garbage-bags.png"
         },
         {
           "id": 59,
@@ -406,7 +406,7 @@
           "id": 64,
           "name": "Disposable Shoe Covers",
           "description": "Box of 100 anti-slip shoe covers.",
-          "image": "https://logosae.com/catalog-images/64-disposable-shoe-covers.jpg"
+          "image": "https://logosae.com/catalog-images/64-disposable-shoe-covers.png"
         },
         {
           "id": 65,
@@ -436,13 +436,13 @@
           "id": 69,
           "name": "Cleaning Accessories",
           "description": "Industrial janitorial supplies and tools.",
-          "image": "https://logosae.com/catalog-images/69-cleaning-accessories.jpg"
+          "image": "https://logosae.com/catalog-images/69-cleaning-accessories.png"
         },
         {
           "id": 70,
           "name": "Hygiene Products",
           "description": "Sanitizers, soaps, and hygiene essentials.",
-          "image": "https://logosae.com/catalog-images/70-hygiene-products.jpg"
+          "image": "https://logosae.com/catalog-images/70-hygiene-products.png"
         },
         {
           "id": 71,
@@ -460,7 +460,7 @@
           "id": 73,
           "name": "Winter Jacket",
           "description": "Insulated jackets for cold environment work.",
-          "image": "https://logosae.com/catalog-images/73-winter-jacket.jpg"
+          "image": "https://logosae.com/catalog-images/73-winter-jacket.webp"
         },
         {
           "id": 74,
@@ -535,13 +535,13 @@
           "id": 21,
           "name": "Surgical Masks",
           "description": "Disposable surgical masks for workplace, hygiene, and medical consumable supply.",
-          "image": "https://logosae.com/catalog-images/21-surgical-masks.jpg"
+          "image": "https://logosae.com/catalog-images/21-surgical-masks.png"
         },
         {
           "id": 22,
           "name": "N95 Mask",
           "description": "High-filtration particulate respirator masks.",
-          "image": "https://logosae.com/catalog-images/22-n95-mask.jpg"
+          "image": "https://logosae.com/catalog-images/22-n95-mask.png"
         },
         {
           "id": 23,

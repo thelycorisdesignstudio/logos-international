@@ -492,7 +492,7 @@
               "name": "High Visibility Reflective Vest",
               "description": "Standard safety vests with high intensity reflective strips.",
               "category": "Clothing",
-              "image": "https://logosae.com/catalog-images/05-high-visibility-reflective-vest.jpg",
+              "image": "https://logosae.com/catalog-images/05-high-visibility-reflective-vest.png",
               "url": "https://logosae.com/catalog/clothing",
               "brand": {
                 "@id": "https://logosae.com/#organization"
@@ -622,7 +622,7 @@
               "name": "Safety Goggles",
               "description": "Sealed goggles for chemical and dust protection.",
               "category": "Eye & Ear Protection",
-              "image": "https://logosae.com/catalog-images/26-safety-goggles.jpg",
+              "image": "https://logosae.com/catalog-images/26-safety-goggles.png",
               "url": "https://logosae.com/catalog/eye-and-ear-protection",
               "brand": {
                 "@id": "https://logosae.com/#organization"
@@ -1128,7 +1128,7 @@
               "name": "Medical Consumables",
               "description": "General medical consumables supplied on request for hygiene, workplace, and facility needs.",
               "category": "Medical Consumables",
-              "image": "https://logosae.com/catalog-images/76-medical-consumables.jpg",
+              "image": "https://logosae.com/catalog-images/76-medical-consumables.png",
               "url": "https://logosae.com/catalog/medical-consumables",
               "brand": {
                 "@id": "https://logosae.com/#organization"
@@ -1306,7 +1306,7 @@
               "name": "PVC Apron",
               "description": "Chemical resistant work apron.",
               "category": "Miscellaneous Products",
-              "image": "https://logosae.com/catalog-images/57-pvc-apron.jpg",
+              "image": "https://logosae.com/catalog-images/57-pvc-apron.png",
               "url": "https://logosae.com/catalog/miscellaneous-products",
               "brand": {
                 "@id": "https://logosae.com/#organization"
@@ -1330,7 +1330,7 @@
               "name": "Garbage Bags",
               "description": "Garbage bags supplied for facility, hygiene, and commercial waste requirements.",
               "category": "Miscellaneous Products",
-              "image": "https://logosae.com/catalog-images/79-garbage-bags.jpg",
+              "image": "https://logosae.com/catalog-images/79-garbage-bags.png",
               "url": "https://logosae.com/catalog/miscellaneous-products",
               "brand": {
                 "@id": "https://logosae.com/#organization"
@@ -1354,7 +1354,7 @@
               "name": "Bio-degradable Garbage Bags",
               "description": "Environmentally friendly waste management bags.",
               "category": "Miscellaneous Products",
-              "image": "https://logosae.com/catalog-images/58-bio-degradable-garbage-bags.jpg",
+              "image": "https://logosae.com/catalog-images/58-bio-degradable-garbage-bags.png",
               "url": "https://logosae.com/catalog/miscellaneous-products",
               "brand": {
                 "@id": "https://logosae.com/#organization"
@@ -1498,7 +1498,7 @@
               "name": "Disposable Shoe Covers",
               "description": "Box of 100 anti-slip shoe covers.",
               "category": "Miscellaneous Products",
-              "image": "https://logosae.com/catalog-images/64-disposable-shoe-covers.jpg",
+              "image": "https://logosae.com/catalog-images/64-disposable-shoe-covers.png",
               "url": "https://logosae.com/catalog/miscellaneous-products",
               "brand": {
                 "@id": "https://logosae.com/#organization"
@@ -1618,7 +1618,7 @@
               "name": "Cleaning Accessories",
               "description": "Industrial janitorial supplies and tools.",
               "category": "Miscellaneous Products",
-              "image": "https://logosae.com/catalog-images/69-cleaning-accessories.jpg",
+              "image": "https://logosae.com/catalog-images/69-cleaning-accessories.png",
               "url": "https://logosae.com/catalog/miscellaneous-products",
               "brand": {
                 "@id": "https://logosae.com/#organization"
@@ -1642,7 +1642,7 @@
               "name": "Hygiene Products",
               "description": "Sanitizers, soaps, and hygiene essentials.",
               "category": "Miscellaneous Products",
-              "image": "https://logosae.com/catalog-images/70-hygiene-products.jpg",
+              "image": "https://logosae.com/catalog-images/70-hygiene-products.png",
               "url": "https://logosae.com/catalog/miscellaneous-products",
               "brand": {
                 "@id": "https://logosae.com/#organization"
@@ -1714,7 +1714,7 @@
               "name": "Winter Jacket",
               "description": "Insulated jackets for cold environment work.",
               "category": "Miscellaneous Products",
-              "image": "https://logosae.com/catalog-images/73-winter-jacket.jpg",
+              "image": "https://logosae.com/catalog-images/73-winter-jacket.webp",
               "url": "https://logosae.com/catalog/miscellaneous-products",
               "brand": {
                 "@id": "https://logosae.com/#organization"
@@ -1936,7 +1936,7 @@
               "name": "Surgical Masks",
               "description": "Disposable surgical masks for workplace, hygiene, and medical consumable supply.",
               "category": "Respiratory Protection",
-              "image": "https://logosae.com/catalog-images/21-surgical-masks.jpg",
+              "image": "https://logosae.com/catalog-images/21-surgical-masks.png",
               "url": "https://logosae.com/catalog/respiratory-protection",
               "brand": {
                 "@id": "https://logosae.com/#organization"
@@ -1960,7 +1960,7 @@
               "name": "N95 Mask",
               "description": "High-filtration particulate respirator masks.",
               "category": "Respiratory Protection",
-              "image": "https://logosae.com/catalog-images/22-n95-mask.jpg",
+              "image": "https://logosae.com/catalog-images/22-n95-mask.png",
               "url": "https://logosae.com/catalog/respiratory-protection",
               "brand": {
                 "@id": "https://logosae.com/#organization"
