@@ -285,8 +285,8 @@ const buildEntityGraph = (products) => {
         name: 'Logos International',
         legalName: 'Logos International',
         url: `${siteUrl}/`,
-        logo: `${siteUrl}/logo-mark.svg`,
-        image: `${siteUrl}/og-image.svg`,
+        logo: `${siteUrl}/logo-official.png`,
+        image: `${siteUrl}/logo-official.png`,
         email: contactEmail,
         description:
           'Sharjah, UAE multi-category sourcing and supply company providing PPE, health and safety requisites, medical consumables, hardware, uniforms, printing services and custom-order products across the UAE and GCC countries.',
@@ -686,7 +686,7 @@ ${routes
     return `  <url>
     <loc>${absoluteUrl(route.path)}</loc>
     <image:image>
-      <image:loc>${siteUrl}/og-image.svg</image:loc>
+      <image:loc>${siteUrl}/logo-official.png</image:loc>
       <image:title>${escapeXml(route.title)}</image:title>
     </image:image>
 ${productImages ? `${productImages}\n` : ''}    <lastmod>${generatedDate}</lastmod>

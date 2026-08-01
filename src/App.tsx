@@ -17,8 +17,8 @@ import { Page, Product } from './types';
 
 const SITE_URL = 'https://logosae.com';
 const CONTACT_EMAIL = 'info@logos.ae';
-const BRAND_IMAGE = `${SITE_URL}/og-image.svg`;
-const BRAND_LOGO = `${SITE_URL}/logo-mark.svg`;
+const BRAND_IMAGE = `${SITE_URL}/logo-official.png`;
+const BRAND_LOGO = `${SITE_URL}/logo-official.png`;
 
 type ProductGroup = {
   name: string;
@@ -1120,7 +1120,7 @@ const Logo = ({ onClick, light = false }: { onClick?: () => void; light?: boolea
     type="button"
   >
     <span className={light ? 'brand-mark brand-mark-light' : 'brand-mark'}>
-      <img src={light ? '/logo-mark-inverse.svg' : '/logo-mark.svg'} alt="" aria-hidden="true" />
+      <img src="/logo-official-512.png" alt="" aria-hidden="true" />
     </span>
     <span className="brand-text">
       <span className={light ? 'text-white' : 'text-[var(--ink)]'}>Logos International</span>

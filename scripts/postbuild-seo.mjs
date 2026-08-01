@@ -3,8 +3,8 @@ import path from 'node:path';
 
 const siteUrl = 'https://logosae.com';
 const contactEmail = 'info@logos.ae';
-const brandImage = `${siteUrl}/og-image.svg`;
-const brandLogo = `${siteUrl}/logo-mark.svg`;
+const brandImage = `${siteUrl}/logo-official.png`;
+const brandLogo = `${siteUrl}/logo-official.png`;
 const distDir = path.resolve('dist');
 
 const serviceAreas = [
