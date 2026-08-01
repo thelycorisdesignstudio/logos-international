@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T07:48:18.096Z",
+  "generatedAt": "2026-08-01T08:02:03.717Z",
   "note": "Attribution and license metadata for catalog images used by Logos International.",
   "images": [
     {
@@ -994,12 +994,12 @@
       "productId": 77,
       "productName": "Building Materials",
       "imagePath": "catalog-images/77-building-materials.jpg",
-      "sourceTitle": "Cement bags.jpg",
+      "sourceTitle": "Tools 66.jpg",
       "source": "Wikimedia Commons",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cement_bags.jpg",
-      "creator": "Wikimedia Commons contributor",
-      "license": "Wikimedia Commons license",
-      "licenseUrl": "",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tools%2066.jpg",
+      "creator": "Wilfredor",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "query": "representative catalog product photo",
       "matchConfidence": "high"
     },

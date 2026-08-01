@@ -137,7 +137,7 @@ export const products: Product[] = [
 
     // 8. Building Materials & Hardware
     { id: 37, name: "Industrial Pipe Fittings", category: "Building Materials & Hardware", description: "Range of fittings and plumbing materials." },
-    { id: 77, name: "Building Materials", category: "Building Materials & Hardware", description: "General building materials supplied for commercial and industrial requirements." },
+    { id: 77, name: "Building Materials", category: "Building Materials & Hardware", description: "Site materials and hardware supplied for commercial and industrial requirements." },
     { id: 78, name: "Hardware Supplies", category: "Building Materials & Hardware", description: "Hardware products sourced for maintenance, site, and facility supply needs." },
 
     // 9. Printing Services

@@ -6,7 +6,7 @@ const outputDir = path.resolve('public/catalog-images');
 const manifestPath = path.join(outputDir, 'manifest.json');
 const attributionPath = path.join(outputDir, 'attribution.json');
 const productImagesTsPath = path.resolve('src/data/productImages.ts');
-const sourceOverrideRevision = '2026-08-01-product-photo-audit-v17';
+const sourceOverrideRevision = '2026-08-01-product-photo-audit-v19';
 const refreshImageSelection = new Set([
   'Twill Cotton 2pc Uniform',
   'Fire Retardant Coverall',
@@ -16,6 +16,17 @@ const refreshImageSelection = new Set([
   'Safety Goggles',
   'Safety Barrier',
   'Custom Order Sourcing',
+  'Metal Helmet',
+  'Fiber Helmet',
+  'Helmet with Ratchet & Chin Strap',
+  'Bird Feed & Accessories',
+  'Garbage Bags',
+  'Bio-degradable Garbage Bags',
+  'Non-Metal Safety Shoes',
+  'Metal Safety Shoes',
+  'Welder Boot',
+  'Gumboot',
+  'Executive Safety Shoes',
 ]);
 
 const userAgent = 'LogosInternationalImageBuilder/1.0 (https://logosae.com)';
@@ -66,7 +77,7 @@ const productQueries = {
   'Retractable Fall Arrester': ['retractable fall arrester', 'self retracting lifeline', 'fall arrest block'],
   'Cargo Lashing Belt': ['cargo lashing belt', 'ratchet tie down strap', 'cargo ratchet strap'],
   'Industrial Pipe Fittings': ['pipe fittings', 'industrial pipe fittings', 'plumbing fittings'],
-  'Building Materials': ['building materials', 'construction materials', 'cement blocks materials'],
+  'Building Materials': ['building materials', 'construction site materials', 'industrial site supplies'],
   'Hardware Supplies': ['hardware tools supplies', 'industrial hardware', 'tools and hardware'],
   'DTF Printing': ['direct to film printing', 'DTF printer', 't-shirt transfer printing'],
   'Embroidery Service': ['embroidery machine logo', 'machine embroidery', 'embroidered logo'],
@@ -371,14 +382,15 @@ const manualImageOverrides = {
     license: 'CC BY 2.0',
     licenseUrl: 'https://creativecommons.org/licenses/by/2.0/',
   },
-  'Building Materials': {
-    title: 'Cement bags.jpg',
-    downloadUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Cement_bags.jpg/960px-Cement_bags.jpg',
-    sourceUrl: commonsFilePage('Cement_bags.jpg'),
-    creator: 'Wikimedia Commons contributor',
-    license: 'Wikimedia Commons license',
-  },
   'Hardware Supplies': {
+    title: 'Tools 66.jpg',
+    downloadUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Tools_66.jpg/960px-Tools_66.jpg',
+    sourceUrl: commonsFilePage('Tools 66.jpg'),
+    creator: 'Wilfredor',
+    license: 'CC0',
+    licenseUrl: 'https://creativecommons.org/publicdomain/zero/1.0/',
+  },
+  'Building Materials': {
     title: 'Tools 66.jpg',
     downloadUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Tools_66.jpg/960px-Tools_66.jpg',
     sourceUrl: commonsFilePage('Tools 66.jpg'),

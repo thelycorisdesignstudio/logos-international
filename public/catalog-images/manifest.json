@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-01T07:48:18.096Z",
-  "sourceOverrideRevision": "2026-08-01-product-photo-audit-v17",
+  "generatedAt": "2026-08-01T08:02:03.717Z",
+  "sourceOverrideRevision": "2026-08-01-product-photo-audit-v19",
   "sourcePolicy": "Real internet-sourced catalog photos downloaded from Wikimedia Commons and Openverse search results, with noncommercial licenses filtered out where exposed by the source API.",
   "totalProducts": 79,
   "products": [
@@ -1303,12 +1303,12 @@
       "path": "catalog-images/77-building-materials.jpg",
       "alt": "Building Materials representative catalog image for Logos International",
       "source": "Wikimedia Commons",
-      "sourceTitle": "Cement bags.jpg",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cement_bags.jpg",
-      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Cement_bags.jpg/960px-Cement_bags.jpg",
-      "creator": "Wikimedia Commons contributor",
-      "license": "Wikimedia Commons license",
-      "licenseUrl": "",
+      "sourceTitle": "Tools 66.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tools%2066.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Tools_66.jpg/960px-Tools_66.jpg",
+      "creator": "Wilfredor",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "query": "representative catalog product photo",
       "matchScore": 999,
       "matchConfidence": "high"

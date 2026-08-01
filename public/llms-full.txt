@@ -91,7 +91,7 @@ Canonical URL: https://logosae.com/catalog/building-materials-and-hardware
 Building materials and hardware products supplied for commercial procurement requirements.
 
 - Industrial Pipe Fittings: Range of fittings and plumbing materials.
-- Building Materials: General building materials supplied for commercial and industrial requirements.
+- Building Materials: Site materials and hardware supplied for commercial and industrial requirements.
 - Hardware Supplies: Hardware products sourced for maintenance, site, and facility supply needs.
 
 ### Clothing
